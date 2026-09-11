@@ -14,7 +14,7 @@
     },
     {
       "key": "YGP",
-      "name": "🚀荐影┃秒播",
+      "name": "🥥荐影┃秒播",
       "type": 3,
       "api": "csp_YGPGuard",
       "searchable": 0,
@@ -23,7 +23,7 @@
     },
     {
       "key": "光影",
-      "name": "🌞光影┃秒播",
+      "name": "🪴光影┃秒播",
       "type": 3,
       "api": "csp_T4Guard",
       "searchable": 1,
@@ -33,7 +33,7 @@
     },
     {
       "key": "原创",
-      "name": "☀原创┃秒播",
+      "name": "🎄原创┃秒播",
       "type": 3,
       "api": "csp_YCyzGuard",
       "timeout": 15,
@@ -55,7 +55,7 @@
     },
     {
       "key": "海绵",
-      "name": "🐻海绵┃秒播",
+      "name": "🌳海绵┃秒播",
       "type": 3,
       "api": "csp_HmysGuard",
       "timeout": 10,
@@ -66,7 +66,7 @@
     },
     {
       "key": "瓜子",
-      "name": "👀瓜子┃秒播",
+      "name": "🍉瓜子┃秒播",
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
@@ -154,7 +154,7 @@
     },
     {
       "key": "热播",
-      "name": "📺热播┃秒播",
+      "name": "🐚热播┃秒播",
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
@@ -166,7 +166,7 @@
     },
     {
       "key": "视界",
-      "name": "🍙视界┃秒播",
+      "name": "🪻视界┃秒播",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -199,7 +199,7 @@
     },
     {
       "key": "奥特",
-      "name": "🏝奥特┃秒播",
+      "name": "🪸奥特┃秒播",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
@@ -373,7 +373,7 @@
     },
     {
       "key": "华谊",
-      "name": "🍠华谊 • APP",
+      "name": "🎋华谊 • APP",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -394,7 +394,7 @@
     },
     {
       "key": "天堂",
-      "name": "🍚天堂 • APP",
+      "name": "🏖️电影天堂 • APP",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -415,7 +415,7 @@
     },
     {
       "key": "剧圈99",
-      "name": "🌾️剧圈 • APP",
+      "name": "🥨剧圈 • APP",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -487,7 +487,7 @@
     },
     {
       "key": "魔都APP",
-      "name": "🍀魔都 • 动漫",
+      "name": "🦑魔都 • 动漫",
       "type": 3,
       "searchable": 1,
       "api": "csp_MoDu",
@@ -495,14 +495,14 @@
     },
     {
       "key": "瓜子APP",
-      "name": "🥔瓜子 • 影视",
+      "name": "🌻瓜子 • 影视",
       "type": 3,
       "api": "csp_Gz360",
       "jar": "./moyu/jar/spider.jar"
     },
     {
       "key": "永乐APP",
-      "name": "🌱永乐 • 影视",
+      "name": "🌺永乐 • 影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -516,14 +516,14 @@
     },
     {
       "key": "飞娱APP",
-      "name": "🎁飞娱 • 影视",
+      "name": "🪷飞娱 • 影视",
       "type": 3,
       "api": "csp_Feiyu",
       "jar": "./moyu/jar/spider.jar"
     },
     {
       "key": "农民APP",
-      "name": "👩‍🌾农民 • 影视",
+      "name": "🌾农民 • 影视",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
@@ -531,7 +531,7 @@
     },
     {
       "key": "路漫漫",
-      "name": "🎯路漫漫 • 动漫",
+      "name": "🦀路漫漫 • 动漫",
       "type": 3,
       "api": "./api/drpy2.min.js",
       "ext": "./js/路漫漫.js",
@@ -539,7 +539,7 @@
     },
     {
       "key": "去看吧",
-      "name": "🍰去看吧 • 动漫",
+      "name": "🦐去看吧 • 动漫",
       "type": 3,
       "api": "./api/drpy2.min.js",
       "ext": "./js/去看吧.js",
@@ -557,7 +557,7 @@
     },
     {
       "key": "919体育",
-      "name": "💘919 • 体育",
+      "name": "⚾️919 • 体育",
       "type": 3,
       "api": "csp_919TY",
       "style": {
@@ -581,7 +581,7 @@
     },
     {
       "key": "py_lziapi",
-      "name": "🐦量子采集",
+      "name": "🥙量子采集",
       "type": 3,
       "api": "./py/py/py_collectJson.py",
       "searchable": 1,
@@ -597,7 +597,7 @@
     },
     {
       "key": "py_gaoqing",
-      "name": "🐯高清采集",
+      "name": "🥗高清采集",
       "type": 3,
       "api": "./py/py/py_高清资源.py",
       "searchable": 1,
@@ -608,7 +608,7 @@
     },
     {
       "key": "py_360cj",
-      "name": "🐕‍360采集",
+      "name": "🍟360采集",
       "type": 3,
       "api": "./py/py/py_360资源.py",
       "searchable": 1,
@@ -619,7 +619,7 @@
     },
     {
       "key": "py_ffzyapi",
-      "name": "🦄非凡采集",
+      "name": "🌮非凡采集",
       "type": 3,
       "api": "./py/py/py_非凡资源.py",
       "searchable": 1,
@@ -630,7 +630,7 @@
     },
     {
       "key": "py_dyttzy",
-      "name": "🐷天堂采集",
+      "name": "🥫电影天堂采集",
       "type": 3,
       "api": "./py/py/py_collectJson.py",
       "searchable": 1,
