@@ -3,10 +3,10 @@
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "点我切源",
-      "name": "甘总尊享3",
+      "key": "豆瓣",
+      "name": "甘总尊享2",
       "type": 3,
-      "api": "csp_DouDouGuard",
+      "api": "csp_Douban",
       "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
