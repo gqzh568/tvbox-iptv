@@ -1,16 +1,23 @@
 {
   "spider": ".moyu/jar/spider.jar",
-  "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
     {
+      "key": "Nostr",
+      "name": "Ggggg",
+      "type": 3,
+      "api": "csp_Nostr",
+      "homePage": "https://cnb.cool/fish2035/lib/-/git/raw/main/nostr.min.html"
+    },
+    {
       "key": "豆瓣",
-      "name": "甘总尊享2",
+      "name": "豆瓣 • 首页",
       "type": 3,
       "api": "csp_Douban",
       "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "searchable": 0
     },
     {
       "key": "热播影视",
