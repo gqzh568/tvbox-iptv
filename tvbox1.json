@@ -406,26 +406,31 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.muyue.tool",
         "host": "",
-        "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
+        "site": "./moyu/other/az5.txt",
         "version": "1.0.0.4",
         "decrypt": "1"
       },
-      "jar": "https://cnb.cool/fish2035/xs/-/git/raw/main/spider.jar"
+        "jar": "./moyu/jar/spider.jar"
     },
     {
       "key": "云朵影视",
       "name": "☁️云朵┆APP",
       "type": 3,
       "api": "csp_App3Q",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://max.moyu666666.top/app3q.php?site=yd",
-      "jar": "https://tc-new.z.wiki/autoupload/k2fxc/20260821/n5ke/fish08211330.jar"
+      "ext": {
+        "host": "https://ds3xy2yunsa.xyz",
+        "finger": "SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776",
+        "updateId": "175070c3-075c-468b-950a-bf575769f4f1",
+        "deviceBrand": "vivo",
+        "deviceModel": "V2309A",
+        "pkg": "com.tvcloud.io",
+        "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
+        "ver": "1",
+        "jar": "./moyu/jar/spider.jar"
     },
     {
       "key": "天堂",
-      "name": "🍚天然 • APP",
+      "name": "🍚天堂 • APP",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -438,11 +443,11 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.dytiantang.one",
         "host": "",
-        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+        "site": "./moyu/other/app_dyttandroid.txt",
         "version": "3.0.0.7",
         "decrypt": "0"
       },
-      "jar": "https://cnb.cool/fish2035/xs/-/git/raw/main/spider.jar"
+        "jar": "./moyu/jar/spider.jar"
     },
     {
       "key": "剧圈99",
@@ -458,30 +463,9 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "jar": "https://cnb.cool/fish2035/xs/-/git/raw/main/spider.jar"
+        "jar": "./moyu/jar/spider.jar"
     },
-    {
-      "key": "枕霜",
-      "name": "❄️枕霜┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "zs"
-      },
-      "jar": "https://tc-new.z.wiki/autoupload/k2fxc/20260821/n5ke/fish08211330.jar"
-    },
-    {
-      "key": "孟葭",
-      "name": "🌿孟葭┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "mj"
-      },
-      "jar": "https://tc-new.z.wiki/autoupload/k2fxc/20260821/n5ke/fish08211330.jar"
-    },
+
     {
       "key": "Duboku",
       "name": "🎯独播┆APP",
@@ -490,7 +474,43 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://tc-new.z.wiki/autoupload/k2fxc/20260821/n5ke/fish08211330.jar"
+        "jar": "./moyu/jar/spider.jar"
+    },
+    {
+      "key": "路漫漫",
+      "name": "路漫漫 • 动漫",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "ext": "./js/路漫漫.js"
+        "jar": "./moyu/jar/spider.jar"
+    },
+    {
+      "key": "去看吧",
+      "name": "去看吧 • 动漫",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "ext": "./js/去看吧.js"
+        "jar": "./moyu/jar/spider.jar"
+    },
+    {
+      "key": "咖啡体育",
+      "name": "咖啡 • 体育",
+      "type": 3,
+      "api": "csp_KafeiTY",
+      "style": {
+        "type": "list"
+        "jar": "./moyu/jar/spider.jar"
+      }
+    },
+    {
+      "key": "919体育",
+      "name": "919 • 体育",
+      "type": 3,
+      "api": "csp_919TY",
+      "style": {
+        "type": "list"
+        "jar": "./moyu/jar/spider.jar"
+      }
     },
     {
       "key": "Rebo",
@@ -504,7 +524,7 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
-      "jar": "https://tc-new.z.wiki/autoupload/k2fxc/20260821/n5ke/fish08211330.jar"
+        "jar": "./moyu/jar/spider.jar"
     },
     {
       "key": "py_lziapi",
