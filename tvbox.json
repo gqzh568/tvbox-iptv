@@ -55,7 +55,7 @@
     },
     {
       "key": "海绵",
-      "name": "🍄海绵┃秒播",
+      "name": "🐻海绵┃秒播",
       "type": 3,
       "api": "csp_HmysGuard",
       "timeout": 10,
@@ -163,17 +163,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
-    },
-    {
-      "key": "剧圈",
-      "name": "🐻剧圈┃秒播",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
     },
     {
       "key": "视界",
@@ -641,7 +630,7 @@
     },
     {
       "key": "py_dyttzy",
-      "name": "🐷电影天堂采集",
+      "name": "🐷天堂采集",
       "type": 3,
       "api": "./py/py/py_collectJson.py",
       "searchable": 1,
