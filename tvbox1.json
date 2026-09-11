@@ -425,7 +425,8 @@
         "deviceModel": "V2309A",
         "pkg": "com.tvcloud.io",
         "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
-        "ver": "1",
+        "ver": "1"
+         },
         "jar": "./moyu/jar/spider.jar"
     },
     {
@@ -481,15 +482,15 @@
       "name": "路漫漫 • 动漫",
       "type": 3,
       "api": "./api/drpy2.min.js",
-      "ext": "./js/路漫漫.js"
-        "jar": "./moyu/jar/spider.jar"
+      "ext": "./js/路漫漫.js",
+      "jar": "./moyu/jar/spider.jar"
     },
     {
       "key": "去看吧",
       "name": "去看吧 • 动漫",
       "type": 3,
       "api": "./api/drpy2.min.js",
-      "ext": "./js/去看吧.js"
+      "ext": "./js/去看吧.js",
         "jar": "./moyu/jar/spider.jar"
     },
     {
@@ -498,7 +499,7 @@
       "type": 3,
       "api": "csp_KafeiTY",
       "style": {
-        "type": "list"
+        "type": "list",
         "jar": "./moyu/jar/spider.jar"
       }
     },
@@ -508,7 +509,7 @@
       "type": 3,
       "api": "csp_919TY",
       "style": {
-        "type": "list"
+        "type": "list",
         "jar": "./moyu/jar/spider.jar"
       }
     },
