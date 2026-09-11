@@ -23,7 +23,7 @@
     },
     {
       "key": "光影",
-      "name": "🪴光影┃秒播",
+      "name": "☀️光影┃秒播",
       "type": 3,
       "api": "csp_T4Guard",
       "searchable": 1,
@@ -109,7 +109,7 @@
     },
     {
       "key": "立播",
-      "name": "🌟立播┃秒播",
+      "name": "🌽立播┃秒播",
       "type": 3,
       "api": "csp_LibvioGuard",
       "timeout": 10,
@@ -199,7 +199,7 @@
     },
     {
       "key": "奥特",
-      "name": "🪸奥特┃秒播",
+      "name": "🪐奥特┃秒播",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
@@ -516,7 +516,7 @@
     },
     {
       "key": "飞娱APP",
-      "name": "🪷飞娱 • 影视",
+      "name": "🕊️飞娱 • 影视",
       "type": 3,
       "api": "csp_Feiyu",
       "jar": "./moyu/jar/spider.jar"
