@@ -5,7 +5,11 @@
       "url": "https://tv.711933.xyz/tvbox1.json"
     },
     {
-      "name": "Github备用源",
+      "name": "jsdelivr备用加速源",
+      "url": "https://cdn.jsdelivr.net/gh/gqzh568/tvbox-iptv@main/tvbox.json"
+    },    
+    {
+      "name": "Github备用兜底源",
       "url": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/tvbox1.json"
     }
   ]
