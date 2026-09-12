@@ -5,7 +5,7 @@
       "url": "https://tv.711933.xyz/tvbox1.json"
     },
     {
-      "name": "Raw备用源",
+      "name": "Github备用源",
       "url": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/tvbox1.json"
     }
   ]
