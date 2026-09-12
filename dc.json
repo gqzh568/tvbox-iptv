@@ -1,8 +1,8 @@
 {
-  "sourceHouse": [
+  "urls": [
     {
-      "sourceName": "CF主源",
-      "sourceUrl": "https://tv.711933.xyz/tvbox1.json"
+      "name": "CF主源",
+      "url": "https://tv.711933.xyz/tvbox1.json"
     }
   ]
 }
