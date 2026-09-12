@@ -3,14 +3,6 @@
     {
       "sourceName": "CF主源",
       "sourceUrl": "https://tv.711933.xyz/tvbox1.json"
-    },
-    {
-      "sourceName": "jsdelivr备加速源",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/gqzh568/tvbox-iptv@main/tvbox1.json"
-    },
-    {
-      "sourceName": "Github兜底源",
-      "sourceUrl": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/tvbox1.json"
     }
   ]
 }
