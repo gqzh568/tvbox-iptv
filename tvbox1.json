@@ -14,7 +14,7 @@
     },
     {
       "key": "YGP",
-      "name": "🧅荐影┃秒播",
+      "name": "🧅荐影┃FAN",
       "type": 3,
       "api": "csp_YGPGuard",
       "searchable": 0,
@@ -23,7 +23,7 @@
     },
     {
       "key": "光影",
-      "name": "☀️光影┃秒播",
+      "name": "☀️光影┃FAN",
       "type": 3,
       "api": "csp_T4Guard",
       "searchable": 1,
@@ -33,7 +33,7 @@
     },
     {
       "key": "原创",
-      "name": "🎄原创┃秒播",
+      "name": "🎄原创┃FAN",
       "type": 3,
       "api": "csp_YCyzGuard",
       "timeout": 15,
@@ -44,7 +44,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃秒播",
+      "name": "📔厂长┃FAN",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
@@ -55,7 +55,7 @@
     },
     {
       "key": "海绵",
-      "name": "🌳海绵┃秒播",
+      "name": "🌳海绵┃FAN",
       "type": 3,
       "api": "csp_HmysGuard",
       "timeout": 10,
@@ -66,7 +66,7 @@
     },
     {
       "key": "瓜子",
-      "name": "🍉瓜子┃秒播",
+      "name": "🍉瓜子┃FAN",
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
@@ -77,7 +77,7 @@
     },
     {
       "key": "视界",
-      "name": "🌸茉莉┃秒播",
+      "name": "🌸茉莉┃FAN",
       "type": 3,
       "api": "csp_App99Guard",
       "timeout": 10,
@@ -88,7 +88,7 @@
     },
     {
       "key": "比特",
-      "name": "🍄比特┃秒播",
+      "name": "🍄比特┃FAN",
       "type": 3,
       "api": "csp_BttwooGuard",
       "timeout": 10,
@@ -98,7 +98,7 @@
     },
     {
       "key": "荐片",
-      "name": "🥝荐片┃秒播",
+      "name": "🥝荐片┃FAN",
       "type": 3,
       "api": "csp_JPJGuard",
       "timeout": 10,
@@ -109,7 +109,7 @@
     },
     {
       "key": "立播",
-      "name": "🌽立播┃秒播",
+      "name": "🌽立播┃FAN",
       "type": 3,
       "api": "csp_LibvioGuard",
       "timeout": 10,
@@ -123,7 +123,7 @@
     },
     {
       "key": "糯米",
-      "name": "🍓糯米┃秒播",
+      "name": "🍓糯米┃FAN",
       "type": 3,
       "api": "csp_NmyswvGuard",
       "timeout": 15,
@@ -133,7 +133,7 @@
     },
     {
       "key": "文采",
-      "name": "💮文采┃秒播",
+      "name": "💮文采┃FAN",
       "type": 3,
       "api": "csp_JpysGuard",
       "timeout": 10,
@@ -144,7 +144,7 @@
     },
     {
       "key": "奶酪",
-      "name": "🧀奶酪┃秒播",
+      "name": "🧀奶酪┃FAN",
       "type": 3,
       "api": "csp_T4Guard",
       "searchable": 1,
@@ -154,7 +154,7 @@
     },
     {
       "key": "热播",
-      "name": "🐚热播┃秒播",
+      "name": "🐚热播┃FAN",
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
@@ -166,7 +166,7 @@
     },
     {
       "key": "视界",
-      "name": "🪻视界┃秒播",
+      "name": "🪻视界┃FAN",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -177,7 +177,7 @@
     },
     {
       "key": "播客",
-      "name": "🦊播客┃秒播",
+      "name": "🦊播客┃FAN",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -188,7 +188,7 @@
     },
     {
       "key": "猫猫",
-      "name": "🐟猫猫┃秒播",
+      "name": "🐟猫猫┃动漫FAN",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -198,18 +198,8 @@
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
     },
     {
-      "key": "奥特",
-      "name": "🪐奥特┃秒播",
-      "type": 3,
-      "api": "csp_AueteGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "咕咕",
-      "name": "🦉咕咕┃动漫",
+      "name": "🦉咕咕┃动漫FAN",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -220,7 +210,7 @@
     },
     {
       "key": "Dm84",
-      "name": "🚌巴士┃动漫",
+      "name": "🚌巴士┃动漫FAN",
       "type": 3,
       "api": "csp_Dm84Guard",
       "timeout": 10,
@@ -230,7 +220,7 @@
     },
     {
       "key": "看球",
-      "name": "⚽八八┃看球",
+      "name": "⚽八八┃看球FAN",
       "type": 3,
       "api": "csp_KanqiuGuard",
       "timeout": 10,
@@ -242,7 +232,7 @@
     },
     {
       "key": "超全",
-      "name": "⚽超全┃看球",
+      "name": "⚽超全┃看球FAN",
       "type": 3,
       "api": "csp_LiveGzGuard",
       "searchable": 0,
@@ -254,7 +244,7 @@
     },
     {
       "key": "吃瓜",
-      "name": "🏐吃瓜┃看球",
+      "name": "🏐吃瓜┃看球FAN",
       "type": 3,
       "api": "csp_LiveGzGuard",
       "searchable": 0,
@@ -266,7 +256,7 @@
     },
     {
       "key": "alllive",
-      "name": "🎮游戏直播┃直播",
+      "name": "🎮游戏直播┃直播FAN",
       "type": 3,
       "api": "csp_AllliveGuard",
       "style": {
@@ -373,7 +363,7 @@
     },
     {
       "key": "华谊",
-      "name": "🎋华谊 • APP",
+      "name": "🎋华谊 • FS",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -386,15 +376,15 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.muyue.tool",
         "host": "",
-        "site": "./moyu/other/az5.txt",
+        "site": "./fish/other/az5.txt",
         "version": "1.0.0.4",
         "decrypt": "1"
       },
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "天堂",
-      "name": "🏖️电影天堂 • APP",
+      "name": "🏖️电影天堂 • FS",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -407,15 +397,15 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.dytiantang.one",
         "host": "",
-        "site": "./moyu/other/app_dyttandroid.txt",
+        "site": "./fish/other/app_dyttandroid.txt",
         "version": "3.0.0.7",
         "decrypt": "0"
       },
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "剧圈99",
-      "name": "🥨剧圈 • APP",
+      "name": "🥨剧圈 • FS",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -427,21 +417,21 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "Duboku",
-      "name": "🎯独播┆APP",
+      "name": "🎯独播 • FS",
       "type": 3,
       "api": "csp_Duboku",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "苹果",
-      "name": "🍎苹果 • APP",
+      "name": "🍎苹果 • FS",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -458,11 +448,11 @@
         "version": "1.0.0.3",
         "decrypt": "0"
       },
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "茉莉",
-      "name": "🍂茉莉 • APP",
+      "name": "🍂茉莉 • FS",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
@@ -472,18 +462,18 @@
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
       },
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "飞飞",
-      "name": "🌈飞飞 • APP",
+      "name": "🌈飞飞 • FS",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://qpcj.69mini.com/api.php/app/",
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "魔都APP",
@@ -491,18 +481,18 @@
       "type": 3,
       "searchable": 1,
       "api": "csp_MoDu",
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "瓜子APP",
-      "name": "🌻瓜子 • 影视",
+      "name": "🌻瓜子 • FS",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "永乐APP",
-      "name": "🌺永乐 • 影视",
+      "name": "🌺永乐 • FS",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -512,62 +502,62 @@
         "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12",
         "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
       },
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "飞娱APP",
-      "name": "🕊️飞娱 • 影视",
+      "name": "🕊️飞娱 • FS",
       "type": 3,
       "api": "csp_Feiyu",
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "农民APP",
-      "name": "🌾农民 • 影视",
+      "name": "🌾农民 • FS",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "路漫漫",
-      "name": "🦀路漫漫 • 动漫",
+      "name": "🦀路漫漫 • 动漫FS",
       "type": 3,
       "api": "./api/drpy2.min.js",
       "ext": "./js/路漫漫.js",
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "去看吧",
-      "name": "🦐去看吧 • 动漫",
+      "name": "🦐去看吧 • 动漫FS",
       "type": 3,
       "api": "./api/drpy2.min.js",
       "ext": "./js/去看吧.js",
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "咖啡体育",
-      "name": "🍩咖啡 • 体育",
+      "name": "🍩咖啡 • 体育FS",
       "type": 3,
       "api": "csp_KafeiTY",
       "style": {
         "type": "list",
-        "jar": "./moyu/jar/spider.jar"
+        "jar": "./fish/jar/spider.jar"
       }
     },
     {
       "key": "919体育",
-      "name": "⚾️919 • 体育",
+      "name": "⚾️919 • 体育FS",
       "type": 3,
       "api": "csp_919TY",
       "style": {
         "type": "list",
-        "jar": "./moyu/jar/spider.jar"
+        "jar": "./fish/jar/spider.jar"
       }
     },
     {
       "key": "Rebo",
-      "name": "🍓热播┆APP",
+      "name": "🍓热播 • FS",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -577,11 +567,11 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
-      "jar": "./moyu/jar/spider.jar"
+      "jar": "./fish/jar/spider.jar"
     },
     {
       "key": "py_lziapi",
-      "name": "🥙量子采集",
+      "name": "🥙量子/PY",
       "type": 3,
       "api": "./py/py/py_collectJson.py",
       "searchable": 1,
@@ -597,7 +587,7 @@
     },
     {
       "key": "py_gaoqing",
-      "name": "🥗高清采集",
+      "name": "🥗高清/PY",
       "type": 3,
       "api": "./py/py/py_高清资源.py",
       "searchable": 1,
@@ -608,7 +598,7 @@
     },
     {
       "key": "py_360cj",
-      "name": "🍟360采集",
+      "name": "🍟360/PY",
       "type": 3,
       "api": "./py/py/py_360资源.py",
       "searchable": 1,
@@ -619,7 +609,7 @@
     },
     {
       "key": "py_ffzyapi",
-      "name": "🌮非凡采集",
+      "name": "🌮非凡/PY",
       "type": 3,
       "api": "./py/py/py_非凡资源.py",
       "searchable": 1,
@@ -630,7 +620,7 @@
     },
     {
       "key": "py_dyttzy",
-      "name": "🥫电影天堂采集",
+      "name": "🥫电影天堂/PY",
       "type": 3,
       "api": "./py/py/py_collectJson.py",
       "searchable": 1,
@@ -653,9 +643,173 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
+    },
+    {
+      "key": "素笺",
+      "name": "📜素笺┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "sujian"
+      },
+      "jar": "./moyu/jar/1.jar"
+    },
+    {
+      "key": "长泽",
+      "name": "🎶长泽┆MY",
+      "type": 3,
+      "api": "csp_App88",
+      "ext": "https://max.moyu666666.top/app88.php?site=legacy_a",
+      "jar": "./moyu/jar/1.jar"
+    },
+    {
+      "key": "云岫",
+      "name": "☁️云岫┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "yunxiu"
+      },
+      "jar": "./moyu/jar/1.jar"
+    },
+    {
+      "key": "香篆",
+      "name": "🪔香篆┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "xiangzhu"
+      },
+      "jar": "./moyu/jar/1.jar"
+    },
+    {
+      "key": "松庭",
+      "name": "🌲松庭┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "songting"
+      },
+      "jar": "./moyu/jar/1.jar"
+    },
+    {
+      "key": "墨砚",
+      "name": "🖋️墨砚┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "moyan"
+      },
+      "jar": "./moyu/jar/1.jar"
+    },
+    {
+      "key": "沐辞",
+      "name": "🍃沐辞┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://max.moyu666666.top/appun.php",
+        "playname": "mc"
+      },
+      "jar": "./moyu/jar/1.jar"
+    },
+    {
+      "key": "南枝",
+      "name": "🌱南枝┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://max.moyu666666.top/appun.php",
+        "playname": "nz"
+      },
+      "jar": "./moyu/jar/1.jar"
+    },
+    {
+      "key": "孟葭",
+      "name": "🌿孟葭┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://max.moyu666666.top/appun.php",
+        "playname": "mj"
+      },
+      "jar": "./moyu/jar/1.jar"
+    },
+    {
+      "key": "栖桐",
+      "name": "🌳栖桐┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "qitong"
+      },
+      "jar": "./moyu/jar/1.jar"
+    },
+    {
+      "key": "锦书",
+      "name": "✉️锦书┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "jinshu"
+      },
+      "jar": "./moyu/jar/1.jar"
+    },
+    {
+      "key": "竹隐",
+      "name": "🎋竹隐┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "zhuyin"
+      },
+      "jar": "./moyu/jar/1.jar"
+    },
+    {
+      "key": "观澜",
+      "name": "🌼观澜┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://max.moyu666666.top/appun.php",
+        "playname": "gl"
+      },
+      "jar": "./moyu/jar/1.jar"
     }
   ],
- "parses": [
+  "parses": [
     {
       "name": "聚合",
       "type": 3,
@@ -742,8 +896,6 @@
       }
     }
   ],
-
-  
   "doh": [
     {
       "name": "Google",
@@ -840,7 +992,7 @@
         "UUE29"
       ]
     },
-     {
+    {
       "name": "饭团点击",
       "hosts": [
         "dadagui",
@@ -1037,6 +1189,12 @@
       "url": "http://193.123.86.190:14888/TV/iptv.php",
       "playerType": 2
     },
+    {
+      "name": "天才直播",
+      "type": 0,
+      "url": "https://tv.711933.xyz/iptv1.m3u",
+      "playerType": 2
+    },    
     {
       "name": "zbds",
       "type": 0,
