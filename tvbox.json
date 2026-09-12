@@ -1190,6 +1190,12 @@
       "playerType": 2
     },
     {
+      "name": "天才直播",
+      "type": 0,
+      "url": "https://tv.711933.xyz/iptv1.m3u",
+      "playerType": 2
+    },    
+    {
       "name": "zbds",
       "type": 0,
       "url": "https://live.zbds.top/tv/iptv4.m3u",
