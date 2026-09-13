@@ -1,11 +1,8 @@
- {
-  "spider": "./fan/jar/1.jpg;md5;dab654f794a271c3d7a33d18acfbfa95",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
-   "jars": [
-    {"name":"spider.jar","url":"https://tv.711933.xyz/fish/jar/spider.jar"},
-    {"name":"1.jar","url":"https://tv.711933.xyz/moyu/jar//1.jar"}
+{
 
-  ],
+  "spider": "./fan/jar/1.jpg;md5;dab654f794a271c3d7a33d18acfbfa95",
+
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
 
   "sites": [
 
@@ -765,7 +762,7 @@
 
       },
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -807,7 +804,7 @@
 
       },
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -839,7 +836,7 @@
 
       },
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -859,7 +856,7 @@
 
       "changeable": 1,
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -901,7 +898,7 @@
 
       },
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -929,7 +926,7 @@
 
       },
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -951,7 +948,7 @@
 
       "ext": "https://qpcj.69mini.com/api.php/app/",
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -967,7 +964,7 @@
 
       "api": "csp_MoDu",
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -981,7 +978,7 @@
 
       "api": "csp_Gz360",
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -1009,7 +1006,7 @@
 
       },
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -1023,7 +1020,7 @@
 
       "api": "csp_Feiyu",
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -1039,7 +1036,7 @@
 
       "ext": "https://vip.wwgz.cn:5200",
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -1055,7 +1052,7 @@
 
       "ext": "./js/路漫漫.js",
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -1071,7 +1068,7 @@
 
       "ext": "./js/去看吧.js",
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -1089,7 +1086,7 @@
 
         "type": "list",
 
-        "jar": "spider.jar"
+        "spider": "./fish/jar/spider.jar"
 
       }
 
@@ -1109,7 +1106,7 @@
 
         "type": "list",
 
-        "jar": "spider.jar"
+        "spider": "./fish/jar/spider.jar"
 
       }
 
@@ -1139,7 +1136,7 @@
 
       },
 
-      "jar": "spider.jar"
+      "spider": "./fish/jar/spider.jar"
 
     },
 
@@ -1171,7 +1168,7 @@
 
       },
 
-      "jar": "./py/jar/1.jar"
+      "spider": "./py/jar/1.jar"
 
     },
 
@@ -1193,7 +1190,7 @@
 
       "ext": "py_gaoqing",
 
-      "jar": "./py/jar/1.jar"
+      "spider": "./py/jar/1.jar"
 
     },
 
@@ -1215,7 +1212,7 @@
 
       "ext": "py_360cj",
 
-      "jar": "./py/jar/1.jar"
+      "spider": "./py/jar/1.jar"
 
     },
 
@@ -1237,7 +1234,7 @@
 
       "ext": "py_ffzyapi",
 
-      "jar": "./py/jar/1.jar"
+      "spider": "./py/jar/1.jar"
 
     },
 
@@ -1271,7 +1268,7 @@
 
       },
 
-      "jar": "./py/jar/1.jar"
+      "spider": "./py/jar/1.jar"
 
     },
 
@@ -1317,7 +1314,7 @@
 
       },
 
-      "jar": "1.jar"
+      "spider": "./moyu/jar/1.jar"
 
     },
 
@@ -1333,7 +1330,7 @@
 
       "ext": "https://max.moyu666666.top/app88.php?site=legacy_a",
 
-      "jar": "1.jar"
+      "spider": "./moyu/jar/1.jar"
 
     },
 
@@ -1361,7 +1358,7 @@
 
       },
 
-      "jar": "1.jar"
+      "spider": "./moyu/jar/1.jar"
 
     },
 
@@ -1389,7 +1386,7 @@
 
       },
 
-      "jar": "1.jar"
+      "spider": "./moyu/jar/1.jar"
 
     },
 
@@ -1417,7 +1414,7 @@
 
       },
 
-      "jar": "1.jar"
+      "spider": "./moyu/jar/1.jar"
 
     },
 
@@ -1445,7 +1442,7 @@
 
       },
 
-      "jar": "1.jar"
+      "spider": "./moyu/jar/1.jar"
 
     },
 
@@ -1467,7 +1464,7 @@
 
       },
 
-      "jar": "1.jar"
+      "spider": "./moyu/jar/1.jar"
 
     },
 
@@ -1489,7 +1486,7 @@
 
       },
 
-      "jar": "1.jar"
+      "spider": "./moyu/jar/1.jar"
 
     },
 
@@ -1511,7 +1508,7 @@
 
       },
 
-      "jar": "1.jar"
+      "spider": "./moyu/jar/1.jar"
 
     },
 
@@ -1539,7 +1536,7 @@
 
       },
 
-      "jar": "1.jar"
+      "spider": "./moyu/jar/1.jar"
 
     },
 
@@ -1567,7 +1564,7 @@
 
       },
 
-      "jar": "1.jar"
+      "spider": "./moyu/jar/1.jar"
 
     },
 
@@ -1595,7 +1592,7 @@
 
       },
 
-      "jar": "1.jar"
+      "spider": "./moyu/jar/1.jar"
 
     },
 
@@ -1617,7 +1614,7 @@
 
       },
 
-      "jar": "1.jar"
+      "spider": "./moyu/jar/1.jar"
 
     }
 
