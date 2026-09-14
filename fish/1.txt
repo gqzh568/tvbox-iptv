@@ -1,1 +1,0 @@
-fish   https://cnb.cool/fish2035/xs/-/git/raw/main/api.json
