@@ -618,7 +618,7 @@
       "key": "路漫漫",
       "name": "🦀路漫漫 • 动漫FS",
       "type": 3,
-      "api": "./api/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./js/路漫漫.js",
       "jar": "./jar/fish.jar"
     },
@@ -626,7 +626,7 @@
       "key": "去看吧",
       "name": "🦐去看吧 • 动漫FS",
       "type": 3,
-      "api": "./api/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./js/去看吧.js",
       "jar": "./jar/fish.jar"
     },
