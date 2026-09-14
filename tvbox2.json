@@ -310,7 +310,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./fan/ext/4.txt"
+        "json": "./other/fan少儿.txt"
       }
     },
     {
@@ -326,7 +326,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./fan/ext/5.txt"
+        "json": "./other/fan小学.txt"
       }
     },
     {
@@ -342,7 +342,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./fan/ext/6.txt"
+        "json": "./other/fan初中.txt"
       }
     },
     {
@@ -358,7 +358,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./fan/ext/7.txt"
+        "json": "./other/fan高中.txt"
       }
     },
     {
