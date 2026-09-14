@@ -652,7 +652,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "php": "./php/niulai.php",
+        "php": "https://max.moyu666666.top/niulai.php",
         "site": "sujian"
       },
       "jar": "./jar/moyu.jar"
@@ -662,7 +662,7 @@
       "name": "🎶长泽┆MY",
       "type": 3,
       "api": "csp_App88",
-      "ext": "./php/app88.php?site=legacy_a",
+      "ext": "https://max.moyu666666.top/app88.php?site=legacy_a",
       "jar": "./jar/moyu.jar"
     },
     {
@@ -674,7 +674,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "php": "./php/niulai.php",
+        "php": "https://max.moyu666666.top/niulai.php",
         "site": "yunxiu"
       },
       "jar": "./jar/moyu.jar"
@@ -688,7 +688,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "php": "./php/niulai.php",
+        "php": "https://max.moyu666666.top/niulai.php",
         "site": "xiangzhu"
       },
       "jar": "./jar/moyu.jar"
@@ -702,7 +702,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "php": "./php/niulai.php",
+        "php": "https://max.moyu666666.top/niulai.php",
         "site": "songting"
       },
       "jar": "./jar/moyu.jar"
@@ -716,7 +716,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "php": "./php/niulai.php",
+        "php": "https://max.moyu666666.top/niulai.php",
         "site": "moyan"
       },
       "jar": "./jar/moyu.jar"
@@ -727,7 +727,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
-        "php": "./php/appun.php",
+        "php": "https://max.moyu666666.top/appun.php",
         "playname": "mc"
       },
       "jar": "./jar/moyu.jar"
@@ -738,7 +738,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
-        "php": "./php/appun.php",
+        "php": "https://max.moyu666666.top/appun.php",
         "playname": "nz"
       },
       "jar": "./jar/moyu.jar"
@@ -749,7 +749,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
-        "php": "./php/appun.php",
+        "php": "https://max.moyu666666.top/appun.php",
         "playname": "mj"
       },
       "jar": "./jar/moyu.jar"
@@ -763,7 +763,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "php": "./php/niulai.php",
+        "php": "https://max.moyu666666.top/niulai.php",
         "site": "qitong"
       },
       "jar": "./jar/moyu.jar"
@@ -777,7 +777,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "php": "./php/niulai.php",
+        "php": "https://max.moyu666666.top/niulai.php",
         "site": "jinshu"
       },
       "jar": "./jar/moyu.jar"
@@ -791,7 +791,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "php": "./php/niulai.php",
+        "php": "https://max.moyu666666.top/niulai.php",
         "site": "zhuyin"
       },
       "jar": "./jar/moyu.jar"
@@ -802,7 +802,7 @@
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
-        "php": "./php/appun.php",
+        "php": "https://max.moyu666666.top/appun.php",
         "playname": "gl"
       },
       "jar": "./jar/moyu.jar"
@@ -1175,6 +1175,14 @@
     }
   ],
   "lives": [
+   
+    {
+      "name": "天才直播",
+      "type": 0,
+      "url": "https://tv.711933.xyz/iptv1.m3u",
+      "playerType": 2
+    },
+    
     {
       "name": "咪咕直播",
       "type": 0,
@@ -1188,9 +1196,9 @@
       "playerType": 2
     },
     {
-      "name": "天才直播",
+      "name": "综合直播1",
       "type": 0,
-      "url": "https://tv.711933.xyz/iptv1.m3u",
+      "url": "https://tv.711933.xyz/iptv2.m3u",
       "playerType": 2
     },
     {
