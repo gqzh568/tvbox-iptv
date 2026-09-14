@@ -379,7 +379,7 @@
         "version": "1.0.0.4",
         "decrypt": "1"
       },
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "天堂",
@@ -400,7 +400,7 @@
         "version": "3.0.0.7",
         "decrypt": "0"
       },
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "剧圈99",
@@ -416,7 +416,7 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "Duboku",
@@ -426,7 +426,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "苹果",
@@ -447,7 +447,7 @@
         "version": "1.0.0.3",
         "decrypt": "0"
       },
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "茉莉",
@@ -461,7 +461,7 @@
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
       },
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "飞飞",
@@ -472,7 +472,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://qpcj.69mini.com/api.php/app/",
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "魔都APP",
@@ -480,14 +480,14 @@
       "type": 3,
       "searchable": 1,
       "api": "csp_MoDu",
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "瓜子APP",
       "name": "🌻瓜子 • FS",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "永乐APP",
@@ -501,14 +501,14 @@
         "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12",
         "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
       },
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "飞娱APP",
       "name": "🕊️飞娱 • FS",
       "type": 3,
       "api": "csp_Feiyu",
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "农民APP",
@@ -516,7 +516,7 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "路漫漫",
@@ -524,7 +524,7 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/路漫漫.js",
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "去看吧",
@@ -532,7 +532,7 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/去看吧.js",
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "咖啡体育",
@@ -541,7 +541,7 @@
       "api": "csp_KafeiTY",
       "style": {
         "type": "list",
-        "jar": "./jar/fish.jar"
+        "spider": "./jar/fish.jar"
       }
     },
     {
@@ -551,7 +551,7 @@
       "api": "csp_919TY",
       "style": {
         "type": "list",
-        "jar": "./jar/fish.jar"
+        "spider": "./jar/fish.jar"
       }
     },
     {
@@ -566,7 +566,7 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
-      "jar": "./jar/fish.jar"
+      "spider": "./jar/fish.jar"
     },
     {
       "key": "py_lziapi",
@@ -582,7 +582,7 @@
         "type": "1",
         "isFilter": "1"
       },
-      "jar": "./jar/py.jar"
+      "spider": "./jar/py.jar"
     },
     {
       "key": "py_gaoqing",
@@ -593,7 +593,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "py_gaoqing",
-      "jar": "./jar/py.jar"
+      "spider": "./jar/py.jar"
     },
     {
       "key": "py_360cj",
@@ -604,7 +604,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "py_360cj",
-      "jar": "./jar/py.jar"
+      "spider": "./jar/py.jar"
     },
     {
       "key": "py_ffzyapi",
@@ -615,7 +615,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "py_ffzyapi",
-      "jar": "./jar/py.jar"
+      "spider": "./jar/py.jar"
     },
     {
       "key": "py_dyttzy",
@@ -632,7 +632,7 @@
         "_note": "以上采集为https://d.kstore.dev/download/13676/TvBox/py.json的内容",
         "isFilter": "1"
       },
-      "jar": "./jar/py.jar"
+      "spider": "./jar/py.jar"
     },
     {
       "key": "cc",
@@ -655,7 +655,7 @@
         "php": "./php/niulai.php",
         "site": "sujian"
       },
-      "jar": "./jar/moyu.jar"
+      "spider": "./jar/moyu.jar"
     },
     {
       "key": "长泽",
@@ -663,7 +663,7 @@
       "type": 3,
       "api": "csp_App88",
       "ext": "./php/app88.php?site=legacy_a",
-      "jar": "./jar/moyu.jar"
+      "spider": "./jar/moyu.jar"
     },
     {
       "key": "云岫",
@@ -677,7 +677,7 @@
         "php": "./php/niulai.php",
         "site": "yunxiu"
       },
-      "jar": "./jar/moyu.jar"
+      "spider": "./jar/moyu.jar"
     },
     {
       "key": "香篆",
@@ -691,7 +691,7 @@
         "php": "./php/niulai.php",
         "site": "xiangzhu"
       },
-      "jar": "./jar/moyu.jar"
+      "spider": "./jar/moyu.jar"
     },
     {
       "key": "松庭",
@@ -705,7 +705,7 @@
         "php": "./php/niulai.php",
         "site": "songting"
       },
-      "jar": "./jar/moyu.jar"
+      "spider": "./jar/moyu.jar"
     },
     {
       "key": "墨砚",
@@ -719,7 +719,7 @@
         "php": "./php/niulai.php",
         "site": "moyan"
       },
-      "jar": "./jar/moyu.jar"
+      "spider": "./jar/moyu.jar"
     },
     {
       "key": "沐辞",
@@ -730,7 +730,7 @@
         "php": "./php/appun.php",
         "playname": "mc"
       },
-      "jar": "./jar/moyu.jar"
+      "spider": "./jar/moyu.jar"
     },
     {
       "key": "南枝",
@@ -741,7 +741,7 @@
         "php": "./php/appun.php",
         "playname": "nz"
       },
-      "jar": "./jar/moyu.jar"
+      "spider": "./jar/moyu.jar"
     },
     {
       "key": "孟葭",
@@ -752,7 +752,7 @@
         "php": "./php/appun.php",
         "playname": "mj"
       },
-      "jar": "./jar/moyu.jar"
+      "spider": "./jar/moyu.jar"
     },
     {
       "key": "栖桐",
@@ -766,7 +766,7 @@
         "php": "./php/niulai.php",
         "site": "qitong"
       },
-      "jar": "./jar/moyu.jar"
+      "spider": "./jar/moyu.jar"
     },
     {
       "key": "锦书",
@@ -780,7 +780,7 @@
         "php": "./php/niulai.php",
         "site": "jinshu"
       },
-      "jar": "./jar/moyu.jar"
+      "spider": "./jar/moyu.jar"
     },
     {
       "key": "竹隐",
@@ -794,7 +794,7 @@
         "php": "./php/niulai.php",
         "site": "zhuyin"
       },
-      "jar": "./jar/moyu.jar"
+      "spider": "./jar/moyu.jar"
     },
     {
       "key": "观澜",
@@ -805,7 +805,7 @@
         "php": "./php/appun.php",
         "playname": "gl"
       },
-      "jar": "./jar/moyu.jar"
+      "spider": "./jar/moyu.jar"
     }
   ],
   "parses": [
