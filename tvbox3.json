@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "Douban",
-      "name": "甘总尊享",
+      "name": "请勿信视频中任何广告",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -12,9 +12,50 @@
       "indexs": 1,
       "ext": "./json/douban.json"
     },
+   {
+      "key": "茉莉",
+      "name": "🍂茉莉 • FS",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      },
+      "jar": "./jar/fish.jar"
+    },
+    {
+      "key": "观澜",
+      "name": "🌼观澜┃MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://max.moyu666666.top/appun.php",
+        "playname": "gl"
+      },
+      "jar": "./jar/moyu.jar"
+    },
+    {
+      "key": "py_lziapi",
+      "name": "🥙量子/PY",
+      "type": 3,
+      "api": "./py/py_collectJson.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "hostUrl": "https://cj.lziapi.com/api.php/seacms/vod/at/xml/$$$1",
+        "class": "动作片:6,喜剧片:7,爱情片:8,科幻片:9,恐怖片:10,剧情片:11,战争片:12,国产剧:13",
+        "type": "1",
+        "isFilter": "1"
+      },
+      "jar": "./py/jar/1.jar"
+    },
     {
       "key": "爱营",
-      "name": "💥爱影┆QZ",
+      "name": "💥爱影┆Z",
       "type": 3,
       "api": "csp_AiYing",
       "searchable": 1,
@@ -24,7 +65,7 @@
     },
     {
       "key": "枫叶",
-      "name": "🍁枫叶┆QZ",
+      "name": "🍁枫叶┆Z",
       "type": 3,
       "api": "csp_FengYe",
       "searchable": 1,
@@ -35,7 +76,7 @@
     },
     {
       "key": "山楂",
-      "name": "🍬山楂┆QZ",
+      "name": "🍬山楂┆Z",
       "type": 3,
       "api": "csp_PianKu8",
       "searchable": 1,
@@ -45,7 +86,7 @@
     },
     {
       "key": "怀桑",
-      "name": "🎄怀桑┆QZ",
+      "name": "🎄怀桑┆Z",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -63,7 +104,7 @@
     },
     {
       "key": "剧圈99",
-      "name": "📺剧圈┆QZ",
+      "name": "📺剧圈┆Z",
       "type": 3,
       "api": "csp_App99",
       "searchable": 1,
@@ -81,7 +122,7 @@
     },
     {
       "key": "糯米",
-      "name": "🍙糯米┆QZ",
+      "name": "🍙糯米┆Z",
       "type": 3,
       "api": "csp_Wwys",
       "searchable": 1,
@@ -91,7 +132,7 @@
     },
     {
       "key": "马猴影视",
-      "name": "🐵马猴┆QZ",
+      "name": "🐵马猴┆Z",
       "type": 3,
       "api": "csp_AppMH",
       "searchable": 1,
@@ -102,7 +143,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "🎞️瓜子┆QZ",
+      "name": "🎞️瓜子┆Z",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -111,7 +152,7 @@
     },
     {
       "key": "韩剧秒播",
-      "name": "🌙韩圈┆QZ",
+      "name": "🌙韩圈┆Z",
       "type": 3,
       "api": "csp_Hxq",
       "searchable": 1,
@@ -121,7 +162,7 @@
     },
     {
       "key": "麦田",
-      "name": "🌾麦田┆QZ",
+      "name": "🌾麦田┆Z",
       "type": 3,
       "api": "csp_AppV6",
       "searchable": 1,
@@ -132,7 +173,7 @@
     },
     {
       "key": "热播影视",
-      "name": "📺热播┆QZ",
+      "name": "📺热播┆Z",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -144,7 +185,7 @@
     },
     {
       "key": "天堂",
-      "name": "🎞️天堂┆QZ",
+      "name": "🎞️天堂┆Z",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -164,7 +205,7 @@
     },
     {
       "key": "独播",
-      "name": "🎯独播┆QZ",
+      "name": "🎯独播┆Z",
       "type": 3,
       "api": "csp_Duboku",
       "searchable": 1,
@@ -174,7 +215,7 @@
     },
     {
       "key": "荐片",
-      "name": "🧲荐片┆QZ",
+      "name": "🧲荐片┆Z",
       "type": 3,
       "api": "csp_JianPian",
       "searchable": 1,
@@ -184,7 +225,7 @@
     },
     {
       "key": "橘汁",
-      "name": "🍊橘汁┆QZ",
+      "name": "🍊橘汁┆Z",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -204,7 +245,7 @@
     },
     {
       "key": "华谊",
-      "name": "🎬华谊┆QZ",
+      "name": "🎬华谊┆Z",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -224,7 +265,7 @@
     },
     {
       "key": "苹果",
-      "name": "🔥苹果┆QZ",
+      "name": "🔥苹果┆Z",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -244,7 +285,7 @@
     },
     {
       "key": "薯条",
-      "name": "🎬薯条┆QZ",
+      "name": "🎬薯条┆Z",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -264,7 +305,7 @@
     },
     {
       "key": "AppV7Fz",
-      "name": "💫粉猪┆QZ",
+      "name": "💫粉猪┆Z",
       "type": 3,
       "api": "csp_AppV7",
       "searchable": 1,
@@ -274,7 +315,7 @@
     },
     {
       "key": "AppV7Xy",
-      "name": "🌙咸鱼┆QZ",
+      "name": "🌙咸鱼┆Z",
       "type": 3,
       "api": "csp_AppV7",
       "searchable": 1,
@@ -284,7 +325,7 @@
     },
     {
       "key": "AppV7Zjdr",
-      "name": "🎬追剧┆QZ",
+      "name": "🎬追剧┆Z",
       "type": 3,
       "api": "csp_AppV7",
       "searchable": 1,
@@ -294,7 +335,7 @@
     },
     {
       "key": "AppV7Xnm",
-      "name": "📺柠檬┆QZ",
+      "name": "📺柠檬┆Z",
       "type": 3,
       "api": "csp_AppV7",
       "searchable": 1,
@@ -304,7 +345,7 @@
     },
     {
       "key": "AppV7Mtq",
-      "name": "🎬太奇┆QZ",
+      "name": "🎬太奇┆Z",
       "type": 3,
       "api": "csp_AppV7",
       "searchable": 1,
@@ -314,7 +355,7 @@
     },
     {
       "key": "AppV7Llq",
-      "name": "🌙零七┆QZ",
+      "name": "🌙零七┆Z",
       "type": 3,
       "api": "csp_AppV7",
       "searchable": 1,
@@ -324,7 +365,7 @@
     },
     {
       "key": "AppV7Xsz",
-      "name": "🎞️柿子┆QZ",
+      "name": "🎞️柿子┆Z",
       "type": 3,
       "api": "csp_AppV7",
       "searchable": 1,
@@ -334,7 +375,7 @@
     },
     {
       "key": "AppV7Xhr",
-      "name": "🎬黄人┆QZ",
+      "name": "🎬黄人┆Z",
       "type": 3,
       "api": "csp_AppV7",
       "searchable": 1,
@@ -345,7 +386,7 @@
 
     {
       "key": "魔都",
-      "name": "🐱魔都┆QZ",
+      "name": "🐱魔都┆Z",
       "type": 3,
       "api": "csp_MoDu",
       "searchable": 1,
@@ -355,7 +396,7 @@
     },
     {
       "key": "喵呜",
-      "name": "😺喵呜┆QZ",
+      "name": "😺喵呜┆Z",
       "type": 3,
       "api": "csp_MiaoWu",
       "searchable": 1,
@@ -544,21 +585,6 @@
         "ratio": 1.597
       }
     },
-
-   {
-      "key": "茉莉",
-      "name": "🍂茉莉 • FS",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
-        "dataKey": "88689667dce61725",
-        "dataIv": "88689667dce61725"
-      },
-      "jar": "./jar/fish.jar"
-    },
     {
       "key": "飞飞",
       "name": "🌈飞飞 • FS",
@@ -631,22 +657,6 @@
       "jar": "./jar/fish.jar"
     },
     {
-      "key": "py_lziapi",
-      "name": "🥙量子/PY",
-      "type": 3,
-      "api": "./py/py_collectJson.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "hostUrl": "https://cj.lziapi.com/api.php/seacms/vod/at/xml/$$$1",
-        "class": "动作片:6,喜剧片:7,爱情片:8,科幻片:9,恐怖片:10,剧情片:11,战争片:12,国产剧:13",
-        "type": "1",
-        "isFilter": "1"
-      },
-      "jar": "./py/jar/1.jar"
-    },
-    {
       "key": "py_gaoqing",
       "name": "🥗高清/PY",
       "type": 3,
@@ -698,7 +708,7 @@
     },
    {
       "key": "素笺",
-      "name": "📜素笺┃QZ",
+      "name": "📜素笺┃MY",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -712,7 +722,7 @@
     },
     {
       "key": "长泽",
-      "name": "🎶长泽┃QZ",
+      "name": "🎶长泽┃MY",
       "type": 3,
       "api": "csp_App88",
       "ext": "https://max.moyu666666.top/app88.php?site=legacy_a",
@@ -720,7 +730,7 @@
     },
     {
       "key": "云岫",
-      "name": "☁️云岫┃QZ",
+      "name": "☁️云岫┃MY",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -734,7 +744,7 @@
     },
     {
       "key": "香篆",
-      "name": "🪔香篆┃QZ",
+      "name": "🪔香篆┃MY",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -748,7 +758,7 @@
     },
     {
       "key": "松庭",
-      "name": "🌲松庭┃QZ",
+      "name": "🌲松庭┃MY",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -762,7 +772,7 @@
     },
     {
       "key": "墨砚",
-      "name": "🖋️墨砚┃QZ",
+      "name": "🖋️墨砚┃MY",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -776,7 +786,7 @@
     },
     {
       "key": "沐辞",
-      "name": "🍃沐辞┃QZ",
+      "name": "🍃沐辞┃MY",
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
@@ -787,7 +797,7 @@
     },
     {
       "key": "南枝",
-      "name": "🌱南枝┃QZ",
+      "name": "🌱南枝┃MY",
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
@@ -798,7 +808,7 @@
     },
     {
       "key": "孟葭",
-      "name": "🌿孟葭┃QZ",
+      "name": "🌿孟葭┃MY",
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
@@ -809,7 +819,7 @@
     },
     {
       "key": "栖桐",
-      "name": "🌳栖桐┃QZ",
+      "name": "🌳栖桐┃MY",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -823,7 +833,7 @@
     },
     {
       "key": "锦书",
-      "name": "✉️锦书┃QZ",
+      "name": "✉️锦书┃MY",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -837,7 +847,7 @@
     },
     {
       "key": "竹隐",
-      "name": "🎋竹隐┃QZ",
+      "name": "🎋竹隐┃MY",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -846,17 +856,6 @@
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
         "site": "zhuyin"
-      },
-      "jar": "./jar/moyu.jar"
-    },
-    {
-      "key": "观澜",
-      "name": "🌼观澜┃QZ",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "gl"
       },
       "jar": "./jar/moyu.jar"
     },
