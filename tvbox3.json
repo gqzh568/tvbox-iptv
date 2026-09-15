@@ -1,6 +1,5 @@
 {
   "spider": "./jar/qz.jar",
-  "warningText": "天才提示：愉快的遨游影视吧~ ~ ~\n 请勿相信视频中的任何广告！！！",
   "sites": [
     {
       "key": "Douban",
@@ -607,7 +606,7 @@
       "jar": "./jar/py.jar"
     },
           {
-            "key": "天天",
+            "key": "天天｜NF",
             "name": "⛅天天",
             "type": 3,
             "api": "csp_TTian",
