@@ -861,7 +861,8 @@
       "key": "两个BT",
       "name": "👑两个丨OG",
       "type": 3,
-      "api": "./py/两个BT.py"
+      "api": "./py/两个BT.py",
+      "jar": "./jar/og.jar"
     },
     {
       "key": "柠檬",
@@ -877,7 +878,7 @@
       "name": "🧿先生｜OG",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jars/养生堂.jar",
+      "jar": "./jar/养生堂.jar",
       "ext": {
         "副标题": " ",
         "请求头": "User-Agent$MOBILE_UA",
@@ -924,14 +925,16 @@
       "key": "荐片123",
       "name": "🥇荐片｜OG",
       "type": 3,
-      "api": "./js/荐片.js"
+      "api": "./js/荐片.js",
+      "jar": "./jar/og.jar"
     },
     {
       "key": "瓜子影视",
       "name": "🥇瓜子｜OG",
       "type": 3,
       "api": "./py/GZYS.py",
-      "changeable": 1
+      "changeable": 1,
+      "jar": "./jar/og.jar"
     }
   ],
   "parses": [
