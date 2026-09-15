@@ -12,47 +12,6 @@
       "indexs": 1,
       "ext": "./json/douban.json"
     },
-   {
-      "key": "茉莉",
-      "name": "🍂茉莉 • FS",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
-        "dataKey": "88689667dce61725",
-        "dataIv": "88689667dce61725"
-      },
-      "jar": "./jar/fish.jar"
-    },
-    {
-      "key": "观澜",
-      "name": "🌼观澜┃MY",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "gl"
-      },
-      "jar": "./jar/moyu.jar"
-    },
-    {
-      "key": "py_lziapi",
-      "name": "🥙量子/PY",
-      "type": 3,
-      "api": "./py/py_collectJson.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "hostUrl": "https://cj.lziapi.com/api.php/seacms/vod/at/xml/$$$1",
-        "class": "动作片:6,喜剧片:7,爱情片:8,科幻片:9,恐怖片:10,剧情片:11,战争片:12,国产剧:13",
-        "type": "1",
-        "isFilter": "1"
-      },
-      "jar": "./py/jar/1.jar"
-    },
     {
       "key": "爱营",
       "name": "💥爱影┆Z",
@@ -585,6 +544,21 @@
         "ratio": 1.597
       }
     },
+
+   {
+      "key": "茉莉",
+      "name": "🍂茉莉 • FS",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      },
+      "jar": "./jar/fish.jar"
+    },
     {
       "key": "飞飞",
       "name": "🌈飞飞 • FS",
@@ -655,6 +629,22 @@
       "api": "./js/drpy2.min.js",
       "ext": "./js/去看吧.js",
       "jar": "./jar/fish.jar"
+    },
+    {
+      "key": "py_lziapi",
+      "name": "🥙量子/PY",
+      "type": 3,
+      "api": "./py/py_collectJson.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "hostUrl": "https://cj.lziapi.com/api.php/seacms/vod/at/xml/$$$1",
+        "class": "动作片:6,喜剧片:7,爱情片:8,科幻片:9,恐怖片:10,剧情片:11,战争片:12,国产剧:13",
+        "type": "1",
+        "isFilter": "1"
+      },
+      "jar": "./py/jar/1.jar"
     },
     {
       "key": "py_gaoqing",
@@ -856,6 +846,17 @@
       "ext": {
         "php": "https://max.moyu666666.top/niulai.php",
         "site": "zhuyin"
+      },
+      "jar": "./jar/moyu.jar"
+    },
+    {
+      "key": "观澜",
+      "name": "🌼观澜┃MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://max.moyu666666.top/appun.php",
+        "playname": "gl"
       },
       "jar": "./jar/moyu.jar"
     },
