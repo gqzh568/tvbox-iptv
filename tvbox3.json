@@ -1,5 +1,6 @@
 {
   "spider": "./jar/qz.jar",
+  "warningText": "天才提示：愉快的遨游影视吧~ ~ ~\n 请勿相信视频中的任何广告！！！",
   "sites": [
     {
       "key": "Douban",
@@ -541,8 +542,24 @@
       "jar": "./jar/fish.jar"
     },
     {
+      "key": "py_lziapi",
+      "name": "🐦量子采集.PY",
+      "type": 3,
+      "api": "./py/py_collectJson.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "hostUrl": "https://cj.lziapi.com/api.php/seacms/vod/at/xml/$$$1",
+        "class": "动作片:6,喜剧片:7,爱情片:8,科幻片:9,恐怖片:10,剧情片:11,战争片:12,国产剧:13,香港剧:14",
+        "type": 1,
+        "isFilter": 1
+      },
+      "jar": "./jar/py.jar"
+    },
+    {
       "key": "py_360cj",
-      "name": "🪂360/PY",
+      "name": "🐕‍🦺360采集.PY",
       "type": 3,
       "api": "./py/py_360资源.py",
       "searchable": 1,
@@ -553,7 +570,7 @@
     },
     {
       "key": "py_ffzyapi",
-      "name": "⛷️非凡/PY",
+      "name": "🦄非凡采集.PY",
       "type": 3,
       "api": "./py/py_非凡资源.py",
       "searchable": 1,
@@ -563,24 +580,19 @@
       "jar": "./jar/py.jar"
     },
     {
-      "key": "py_lziapi",
-      "name": "🏂量子/PY",
+      "key": "py_xinl",
+      "name": "🐐新浪采集.PY",
       "type": 3,
-      "api": "./py/py_collectJson.py",
+      "api": "./py/py_新浪资源.py",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 0,
-      "ext": {
-        "hostUrl": "https://cj.lziapi.com/api.php/seacms/vod/at/xml/$$$1",
-        "class": "动作片:6,喜剧片:7,爱情片:8,科幻片:9,恐怖片:10,剧情片:11,战争片:12,国产剧:13",
-        "type": "1",
-        "isFilter": "1"
-      },
+      "ext": "py_xinl",
       "jar": "./jar/py.jar"
     },
     {
       "key": "py_dyttzy",
-      "name": "🏖️天堂/PY",
+      "name": "🦝电影天堂采集.PY",
       "type": 3,
       "api": "./py/py_collectJson.py",
       "searchable": 1,
@@ -588,10 +600,9 @@
       "filterable": 0,
       "ext": {
         "hostUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
-        "class": "动作片:6,喜剧片:7,爱情片:8,科幻片:9,恐怖片:10,剧情片:11,战争片:12",
-        "type": "1",
-        "_note": "以上采集为https://d.kstore.dev/download/13676/TvBox/py.json的内容",
-        "isFilter": "1"
+        "class": "动作片:6,喜剧片:7,爱情片:8,科幻片:9,恐怖片:10,剧情片:11,战争片:12,国产剧:13,香港剧:14",
+        "type": 1,
+        "isFilter": 1
       },
       "jar": "./jar/py.jar"
     },
