@@ -1,12 +1,12 @@
 {
   "urls": [
     {
-      "name": "CF主源",
-      "url": "https://tv.711933.xyz/tvbox1.json"
+      "name": "主源",
+      "url": "https://tv.711933.xyz/tvbox.json"
     },
      {
-      "name": "jsdelivr备用源",
-      "url": "https://cdn.jsdelivr.net/gh/gqzh568/tvbox-iptv@main/tvbox1.json"
+      "name": "备用源",
+      "url": "https://tv.711933.xyz/tvbox1.json"
      }
   ]
 }
