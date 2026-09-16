@@ -607,7 +607,7 @@
     },
     {
       "key": "py_lziapi",
-      "name": "🐦量子.PY",
+      "name": "🐦量子采集.PY",
       "type": 3,
       "api": "./py/py_collectJson.py",
       "searchable": 1,
@@ -623,7 +623,7 @@
     },
     {
       "key": "py_360cj",
-      "name": "🐕‍360.PY",
+      "name": "🐕‍360采集.PY",
       "type": 3,
       "api": "./py/py_360资源.py",
       "searchable": 1,
@@ -634,7 +634,7 @@
     },
     {
       "key": "py_ffzyapi",
-      "name": "🍳非凡.PY",
+      "name": "🍳非凡采集.PY",
       "type": 3,
       "api": "./py/py_非凡资源.py",
       "searchable": 1,
@@ -656,7 +656,7 @@
     },
     {
       "key": "py_dyttzy",
-      "name": "🦝电影采集.PY",
+      "name": "🥎电影采集.PY",
       "type": 3,
       "api": "./py/py_collectJson.py",
       "searchable": 1,
@@ -683,7 +683,7 @@
     },
     {
       "key": "追剧吧",
-      "name": "🏃‍♀️追剧吧",
+      "name": "🎾追剧｜NF",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
