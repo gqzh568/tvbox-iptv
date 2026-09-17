@@ -13,17 +13,6 @@
       "ext": "Douban"
     },
     {
-      "name": "⭐夏天┃AW",
-      "key": "NewGrV2",
-      "type": 3,
-      "api": "csp_NewGrV2Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "NewGrV2"
-    },
-
-    {
       "name": "⭐韩剧┃AW",
       "key": "Hxq",
       "type": 3,
@@ -417,6 +406,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
+      "_note": "嗷呜的http://www.英格里希嗷呜.top/tv或https://9763.kstore.vip/aowu.json或http://wwww.2525666.xyz/tv的内容",
       "ext": {
         "json": "https://nos.netease.com/youdata-netease/public-utilUpload-vsfDQmE86Ei5LCTWJ2X6Nv.gz",
         "cookie": ""
@@ -600,7 +590,7 @@
       "name": "🥔瓜子体育 • FS",
       "type": 3,
       "api": "csp_GuaziTY",
-        "_note": "fish内容",
+        "_note": "fish的https://cnb.cool/fish2035/xs/-/git/raw/main/api.json内容",
       "style": {
         "type": "list"
       },
@@ -663,6 +653,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
+      "_note": "PY的https://d.kstore.dev/download/13676/TvBox/py.json的内容",
       "ext": {
         "hostUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
         "class": "动作片:6,喜剧片:7,爱情片:8,科幻片:9,恐怖片:10,剧情片:11,战争片:12,国产剧:13,香港剧:14",
@@ -694,6 +685,23 @@
         "简介": "【请不要相信视频中的广告，以免上当受骗！】+&&</div>",
         "分类url": "https://zjuba.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
         "分类": "追剧全部$0#电影$1#电视剧$2#综艺$3#动漫$4#更新$new"
+      },
+      "jar": "./jar/nf.jar"
+    },
+    {
+      "key": "半日",
+      "name": "🍽半日｜NF",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://103.217.190.91:19987/app/bn",
+        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
+        "versionName": "3.5.8",
+        "name": "半日闲",
+        "package": "com.yf.lelian",
+      "_note": "南风的https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json的内容",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       },
       "jar": "./jar/nf.jar"
     },
@@ -742,7 +750,7 @@
     },
     {
       "key": "布卡",
-      "name": "🧆布卡｜OG",
+      "name": "🏯布卡｜OG",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/养生堂.jar",
@@ -768,178 +776,13 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/养生堂.jar",
-        "_note": "讴歌内容",
+        "_note": "讴歌的内容",
       "ext": {
         "副标题": " ",
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "分类url": "https://www.ylys.tv/;;!H"
       }
-    },
-    {
-      "key": "素笺",
-      "name": "📜素笺┆MY",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
-        "site": "sujian"
-      },
-      "jar": "./jar/moyu.jar"
-    },
-    {
-      "key": "长泽",
-      "name": "🎶长泽┆MY",
-      "type": 3,
-      "api": "csp_App88",
-      "ext": "https://max.moyu666666.top/app88.php?site=legacy_a",
-      "jar": "./jar/moyu.jar"
-    },
-    {
-      "key": "云岫",
-      "name": "☁️云岫┆MY",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
-        "site": "yunxiu"
-      },
-      "jar": "./jar/moyu.jar"
-    },
-    {
-      "key": "香篆",
-      "name": "🪔香篆┆MY",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
-        "site": "xiangzhu"
-      },
-      "jar": "./jar/moyu.jar"
-    },
-    {
-      "key": "松庭",
-      "name": "🌲松庭┆MY",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
-        "site": "songting"
-      },
-      "jar": "./jar/moyu.jar"
-    },
-    {
-      "key": "墨砚",
-      "name": "🖋️墨砚┆MY",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
-        "site": "moyan"
-      },
-      "jar": "./jar/moyu.jar"
-    },
-    {
-      "key": "沐辞",
-      "name": "🍃沐辞┆MY",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "mc"
-      },
-      "jar": "./jar/moyu.jar"
-    },
-    {
-      "key": "南枝",
-      "name": "🌱南枝┆MY",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "nz"
-      },
-      "jar": "./jar/moyu.jar"
-    },
-    {
-      "key": "孟葭",
-      "name": "🌿孟葭┆MY",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "mj"
-      },
-      "jar": "./jar/moyu.jar"
-    },
-    {
-      "key": "栖桐",
-      "name": "🌳栖桐┆MY",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
-        "site": "qitong"
-      },
-      "jar": "./jar/moyu.jar"
-    },
-    {
-      "key": "锦书",
-      "name": "✉️锦书┆MY",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
-        "site": "jinshu"
-      },
-      "jar": "./jar/moyu.jar"
-    },
-    {
-      "key": "竹隐",
-      "name": "🎋竹隐┆MY",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "php": "https://max.moyu666666.top/niulai.php",
-        "site": "zhuyin"
-      },
-      "jar": "./jar/moyu.jar"
-    },
-    {
-      "key": "观澜",
-      "name": "🌼观澜┆MY",
-      "api": "csp_AppUn",
-      "type": 3,
-        "_note": "摸鱼内容",
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "gl"
-      },
-      "jar": "./jar/moyu.jar"
     },
     {
       "name": "🛴推送┃播放",
