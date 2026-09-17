@@ -1640,10 +1640,10 @@
       "url": "http://193.123.86.190:14888/TV/iptv.php",
       "playerType": 2
     },
-    {
-      "name": "综合直播1",
+     {
+      "name": "天才直播1",
       "type": 0,
-      "url": "hhttps://tv.711933.xyz/iptv2.m3u",
+      "url": "https://tv.711933.xyz/iptv2.m3u",
       "playerType": 2
     },
     {
