@@ -2,7 +2,7 @@
   "spider": "./jar/aw.jar",
   "sites": [
     {
-      "name": "请勿信视频中任何广告3",
+      "name": "请勿信视频中任何广告34",
       "key": "Douban",
       "type": 3,
       "api": "csp_DoubanAmns",
