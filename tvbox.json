@@ -12,16 +12,7 @@
       "changeable": 0,
       "ext": "Douban"
     },
-    {
-      "name": "🌤夏天┃AW",
-      "key": "NewGrV2",
-      "type": 3,
-      "api": "csp_NewGrV2Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "NewGrV2"
-    },
+    
     {
       "name": "⭐韩剧┃AW",
       "key": "Hxq",
