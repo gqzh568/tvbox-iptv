@@ -794,6 +794,170 @@
       }
     },
     {
+      "key": "素笺",
+      "name": "📜素笺┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "sujian"
+      },
+      "jar": "./jar/moyu.jar"
+    },
+    {
+      "key": "长泽",
+      "name": "🎶长泽┆MY",
+      "type": 3,
+      "api": "csp_App88",
+      "ext": "https://max.moyu666666.top/app88.php?site=legacy_a",
+      "jar": "./jar/moyu.jar"
+    },
+    {
+      "key": "云岫",
+      "name": "☁️云岫┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "yunxiu"
+      },
+      "jar": "./jar/moyu.jar"
+    },
+    {
+      "key": "香篆",
+      "name": "🪔香篆┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "xiangzhu"
+      },
+      "jar": "./jar/moyu.jar"
+    },
+    {
+      "key": "松庭",
+      "name": "🌲松庭┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "songting"
+      },
+      "jar": "./jar/moyu.jar"
+    },
+    {
+      "key": "墨砚",
+      "name": "🖋️墨砚┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "moyan"
+      },
+      "jar": "./jar/moyu.jar"
+    },
+    {
+      "key": "沐辞",
+      "name": "🍃沐辞┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://max.moyu666666.top/appun.php",
+        "playname": "mc"
+      },
+      "jar": "./jar/moyu.jar"
+    },
+    {
+      "key": "南枝",
+      "name": "🌱南枝┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://max.moyu666666.top/appun.php",
+        "playname": "nz"
+      },
+      "jar": "./jar/moyu.jar"
+    },
+    {
+      "key": "孟葭",
+      "name": "🌿孟葭┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://max.moyu666666.top/appun.php",
+        "playname": "mj"
+      },
+      "jar": "./jar/moyu.jar"
+    },
+    {
+      "key": "栖桐",
+      "name": "🌳栖桐┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "qitong"
+      },
+      "jar": "./jar/moyu.jar"
+    },
+    {
+      "key": "锦书",
+      "name": "✉️锦书┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "jinshu"
+      },
+      "jar": "./jar/moyu.jar"
+    },
+    {
+      "key": "竹隐",
+      "name": "🎋竹隐┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "zhuyin"
+      },
+      "jar": "./jar/moyu.jar"
+    },
+    {
+      "key": "观澜",
+      "name": "🌼观澜┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://max.moyu666666.top/appun.php",
+        "playname": "gl"
+      },
+      "jar": "./jar/moyu.jar"
+    },
+    {
       "name": "🛴推送┃播放",
       "key": "push_agent",
       "type": 3,
