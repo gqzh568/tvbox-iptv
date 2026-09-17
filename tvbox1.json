@@ -13,7 +13,7 @@
     },
     {
       "key": "YGP",
-      "name": "🧅荐影┃FAN",
+      "name": "🧅荐影┃FA",
       "type": 3,
       "api": "csp_YGPGuard",
       "searchable": 0,
@@ -22,7 +22,7 @@
     },
     {
       "key": "光影",
-      "name": "☀️光影┃FAN",
+      "name": "☀️光影┃FA",
       "type": 3,
       "api": "csp_T4Guard",
       "searchable": 1,
@@ -32,7 +32,7 @@
     },
     {
       "key": "原创",
-      "name": "🎄原创┃FAN",
+      "name": "🎄原创┃FA",
       "type": 3,
       "api": "csp_YCyzGuard",
       "timeout": 15,
@@ -43,7 +43,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃FAN",
+      "name": "📔厂长┃FA",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
@@ -54,7 +54,7 @@
     },
     {
       "key": "海绵",
-      "name": "🌳海绵┃FAN",
+      "name": "🌳海绵┃FA",
       "type": 3,
       "api": "csp_HmysGuard",
       "timeout": 10,
@@ -65,7 +65,7 @@
     },
     {
       "key": "瓜子",
-      "name": "🍉瓜子┃FAN",
+      "name": "🍉瓜子┃FA",
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
@@ -76,7 +76,7 @@
     },
     {
       "key": "视界",
-      "name": "🌸茉莉┃FAN",
+      "name": "🌸茉莉┃FA",
       "type": 3,
       "api": "csp_App99Guard",
       "timeout": 10,
@@ -87,7 +87,7 @@
     },
     {
       "key": "比特",
-      "name": "🍄比特┃FAN",
+      "name": "🍄比特┃FA",
       "type": 3,
       "api": "csp_BttwooGuard",
       "timeout": 10,
@@ -97,7 +97,7 @@
     },
     {
       "key": "荐片",
-      "name": "🥝荐片┃FAN",
+      "name": "🥝荐片┃FA",
       "type": 3,
       "api": "csp_JPJGuard",
       "timeout": 10,
@@ -108,7 +108,7 @@
     },
     {
       "key": "立播",
-      "name": "🌽立播┃FAN",
+      "name": "🌽立播┃FA",
       "type": 3,
       "api": "csp_LibvioGuard",
       "timeout": 10,
@@ -122,7 +122,7 @@
     },
     {
       "key": "糯米",
-      "name": "🍓糯米┃FAN",
+      "name": "🍓糯米┃FA",
       "type": 3,
       "api": "csp_NmyswvGuard",
       "timeout": 15,
@@ -132,7 +132,7 @@
     },
     {
       "key": "文采",
-      "name": "💮文采┃FAN",
+      "name": "💮文采┃FA",
       "type": 3,
       "api": "csp_JpysGuard",
       "timeout": 10,
@@ -143,7 +143,7 @@
     },
     {
       "key": "奶酪",
-      "name": "🧀奶酪┃FAN",
+      "name": "🧀奶酪┃FA",
       "type": 3,
       "api": "csp_T4Guard",
       "searchable": 1,
@@ -153,7 +153,7 @@
     },
     {
       "key": "热播",
-      "name": "🐚热播┃FAN",
+      "name": "🐚热播┃FA",
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
@@ -165,7 +165,7 @@
     },
     {
       "key": "视界",
-      "name": "🪻视界┃FAN",
+      "name": "🪻视界┃FA",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -176,7 +176,7 @@
     },
     {
       "key": "播客",
-      "name": "🦊播客┃FAN",
+      "name": "🦊播客┃FA",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -187,7 +187,7 @@
     },
     {
       "key": "猫猫",
-      "name": "🐟猫猫┃动漫FAN",
+      "name": "🐟猫猫┃动漫FA",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -198,7 +198,7 @@
     },
     {
       "key": "咕咕",
-      "name": "🦉咕咕┃动漫FAN",
+      "name": "🦉咕咕┃动漫FA",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -209,7 +209,7 @@
     },
     {
       "key": "Dm84",
-      "name": "🚌巴士┃动漫FAN",
+      "name": "🚌巴士┃动漫FA",
       "type": 3,
       "api": "csp_Dm84Guard",
       "timeout": 10,
@@ -219,7 +219,7 @@
     },
     {
       "key": "看球",
-      "name": "⚽八八┃看球FAN",
+      "name": "⚽八八┃看球FA",
       "type": 3,
       "api": "csp_KanqiuGuard",
       "timeout": 10,
@@ -231,7 +231,7 @@
     },
     {
       "key": "超全",
-      "name": "⚽超全┃看球FAN",
+      "name": "⚽超全┃看球FA",
       "type": 3,
       "api": "csp_LiveGzGuard",
       "searchable": 0,
@@ -243,7 +243,7 @@
     },
     {
       "key": "吃瓜",
-      "name": "🏐吃瓜┃看球FAN",
+      "name": "🏐吃瓜┃看球FA",
       "type": 3,
       "api": "csp_LiveGzGuard",
       "searchable": 0,
@@ -255,7 +255,7 @@
     },
     {
       "key": "alllive",
-      "name": "🎮游戏直播┃直播FAN",
+      "name": "🎮游戏直播┃直播FA",
       "type": 3,
       "api": "csp_AllliveGuard",
       "style": {
