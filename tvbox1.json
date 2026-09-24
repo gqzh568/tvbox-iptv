@@ -1,9 +1,8 @@
 {
   "spider": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/aw.jar",
-
   "sites": [
     {
-      "name": "🚨请勿相信视频中任何广告、二维码！！",
+      "name": "请勿信视频中任何广告",
       "key": "Douban",
       "type": 3,
       "api": "csp_DoubanAmns",
@@ -12,18 +11,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "Douban"
-    },
-
-
-    {
-      "name": "🍬秋天┃AW",
-      "key": "NewGrV2",
-      "type": 3,
-      "api": "csp_NewGrV2Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "NewGrV2"
     },
     {
       "name": "⭐韩剧┃AW",
@@ -224,17 +211,8 @@
       "name": "🥤橘汁┃AW",
       "key": "Woshinidie",
       "type": 3,
-      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/aw1.jar",
       "api": "csp_Woshinidie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🧩金牌┃快速",
-      "key": "JinPai",
-      "type": 3,
-      "api": "csp_JinPaiAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -250,7 +228,7 @@
       "ext": "JPian"
     },
     {
-      "name": "🔥热播┃AW",
+      "name": " 🔥热播┃AW",
       "key": "Rbys",
       "type": 3,
       "api": "csp_RbysAmns",
@@ -353,23 +331,6 @@
       "changeable": 0
     },
     {
-      "name": "🎉歌曲┃Bili",
-      "key": "BiliGequ",
-      "type": 3,
-      "api": "csp_BiliAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://cdn.waimaimingtang.com/file/images/bwc/20260527100843-9aefe070b5.aowu",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
       "name": "🎉戏曲┃Bili",
       "key": "BiliXiqu",
       "type": 3,
@@ -378,7 +339,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://cdn.waimaimingtang.com/file/images/bwc/20260527100913-7601517540.aowu",
+        "json": "./json/xiqu.aowu",
         "cookie": ""
       },
       "style": {
@@ -395,7 +356,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-7y79ukN4TsLcdydmg5TFRj.gz",
+        "json": "./json/shaoer.gz",
         "cookie": ""
       },
       "style": {
@@ -412,7 +373,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-4VMpA5z1erwuRYyDVSkc9T.gz",
+        "json": "./json/xiaoxue.gz",
         "cookie": ""
       },
       "style": {
@@ -429,7 +390,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://file.icve.com.cn/file_doc/281/941/466EB55404EAB8AD6EC37A5F73444B27.aowu",
+        "json": "./json/chuzhong.aowu",
         "cookie": ""
       },
       "style": {
@@ -445,8 +406,9 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
+      "_note": "嗷呜的http://www.英格里希嗷呜.top/tv或https://9763.kstore.vip/aowu.json或http://wwww.2525666.xyz/tv的内容",
       "ext": {
-        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-vsfDQmE86Ei5LCTWJ2X6Nv.gz",
+        "json": "./json/gaozhong.gz",
         "cookie": ""
       },
       "style": {
@@ -635,6 +597,22 @@
       "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
     },
     {
+      "key": "py_lziapi",
+      "name": "🐦量子采集.PY",
+      "type": 3,
+      "api": "./py/py_collectJson.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "hostUrl": "https://cj.lziapi.com/api.php/seacms/vod/at/xml/$$$1",
+        "class": "动作片:6,喜剧片:7,爱情片:8,科幻片:9,恐怖片:10,剧情片:11,战争片:12,国产剧:13,香港剧:14",
+        "type": 1,
+        "isFilter": 1
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/py.jar"
+    },
+    {
       "key": "天天",
       "name": "⛅天天｜NF",
       "type": 3,
@@ -676,6 +654,249 @@
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       },
       "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/nf.jar"
+    },
+    {
+      "key": "三六零",
+      "name": "🍭三六｜OG",
+      "type": 3,
+      "api": "csp_SP360",
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/og.jar"
+    },
+    {
+      "key": "独播库",
+      "name": "📀播库｜OG",
+      "type": 3,
+      "api": "./js/VmOlRys8_vip.js",
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/og.jar"
+    },
+    {
+      "key": "两个BT",
+      "name": "⛲️两个丨OG",
+      "type": 3,
+      "api": "./py/两个BT.py",
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/og.jar"
+    },
+    {
+      "key": "柠檬",
+      "name": "🌽柠檬｜OG",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/橘皮.jar",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
+    {
+      "key": "先生",
+      "name": "🍜养生｜OG",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/养生堂.jar",
+      "ext": {
+        "副标题": " ",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://silidm.com/;;!H"
+      }
+    },
+    {
+      "key": "布卡",
+      "name": "🏯布卡｜OG",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/养生堂.jar",
+      "ext": {
+        "副标题": " ",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://m.ycblcw.com/;;!H"
+      }
+    },
+    {
+      "key": "大师兄",
+      "name": "🌿师兄｜OG",
+      "type": 3,
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/大师兄.jar",
+      "api": "csp_AppV6",
+      "playerType": 2,
+      "ext": "7lj763gg0939790h44298182lk5j9k99k2g4ih53jl9i376l514k16hilj0443400h9k4jgh8312j1912818glikl7lh1jk9k4222k1kg696igkk32ig6lhj3kl50j08lkl6j0h6gi7k2j31jj0k7i1784l25g757hhkl42i7jg68illihj867l82g53532j62i92kljhj5llh498k24796l57j55ji0ji2g22i501jl541j9j4i68i5j602744l10413k457hl80l91j5l44139j23g64h27k08l5509h202gl84338hi17082hkj5746g298j640i002jk1265h745j289303h6i6j6j15jgkg15485h8g935hk83g9g7j661l4i557jl56h6l0h40i5j9hkiig7066523l2h24gj9k1083g6l2gihh2j5hhgkgij04j8900jhg4l6731hkhij7kk2i594536563674gki85li59jhk79067964197h5k7k2641h03l45074jkkklhik123407146l1i0jk90k1hgl151076ig7i4gi0858h62j37lh8l4hl519ghi7g04h2h900jlj7ll333i736549624gjk8k508g9499gj3jj7050jjhgh4i57326j83301i0kkl88040ih52gj8j0gk0h4g5g7lh561k2gk6k7k56h01598ji23g27k3i17878j92k2gj1l5ih8h0jj73k94g9hl5g7h229i10g099k09l958h3hk18l72h1j43gg7177g4h7ll8987644383606klgh9h4ll42h7293k694kl20j539g6jl17ig655461138jgj7306i1296k3i03586k6l32j5hlik4051187741218271j8j4g3i1h6719877l10k1ijl220i8hlil3j3g129ll3k2i5164lkg12k253kk1h8j5l0gki49jg25hlii704l5ih74439hlj9jih5ki53242ijgh6359i8i5j4h2j2i4581l244j4ij728490hk0k34542916i2lig57836gg7kji3l160234i24hik5g18h790488748j680k5i0l885lj66kjk78j2i57i5021g283ik9g38g62259h1lgi811ihki506k5934g7h737hg9360lll98l4j8i049903l1354lg00019g0934h005h8jjkl60j91k7j74i96h8h26hk59i653209lgj07g1g298k48jllgh00l4i742gi72l27038157gji9j32gh0k5672167k2588h31967l3867g50k503ik403781ki72j47hh4363l0708k4g961k4hl8g4j35ilk143h3424010i165lj612h50k68l61ghl9h80kh874k14ggk2ilg018hi5l1g34262196lkl45ih981jkl42271l4232k93hk8ih3g814i6h63h0g64l300i42il1g0454921j12h4844ii714ih71lg172326009812833h62kj8009kijk5hhg763031235l45h78614l7h9k579h6lj290i98851gll70024834hgj2lg5hk3l905i346gij11kl5j9i7h5j5k12hl061l488k061564g398i2150h9j343901865h7567g874i1gghl5ihg8il8hh0650h6308l2i5053997g8g12g16l3l7h5lhlji71i1i23h0ljl1h14688h7g13987h548h33k34hi6h2i63h424jhl1kik26kl3h60662846j6j0749l8kh95018kl1971j5j5gjk9hg70542391j77hjj65l127627h6h8h0hi003i2hih6h0k9k878lj858k30iljgik0l9248jk25l4h701l6gllhkhi54g24g926jgj884266514056805k2h15hh442i3170ilik20h88i561k0682k04459i154i03ikglg6220i4jii1g32067il925g450k0i1241l3il2jjl6k186gjj53h611il59k650i4kjhi87i798hg6h01g306ig104145ig9h68i092ghhh59jig99j12383792452h44206glk62g67gj204hk874l5li8646g65i9085244i092g70ig9h8657kg0413466ii87k9i32hglh24hi2li7174735i520ik608ilg71292838j5k1h39271ghg5288g930lg6h75626l71h8h5g011k9l9lgk691i04166h7996g452kij4l4l72881k6kl5701jl707hi415j8h3k67576966g2k94k03k0lj31995h2j26hi69jhjji162625l50j7790093hli0jjkh1ll804i3lhh40lk4k240kh48k0k16l544hg033k594gh0l93682l86h35i1i36klhgjg90lkl54746i2k63481h37hilj3ikig52h0j80k5gj6h879lk6g8ll6k616966h59h42l24h824ljj77g6l03kg260i80h2g2k123251j22jg36k5j14781i6197929il9j03k16h4l1i78693g45k64j0jl0k58hj8493h76gj2202470ig12lh2llj2l5k5541k4h506i3hij81lg9i037jgk22i2l3j12j6l394h51ii2ll0022j292h8036767i835k47071jl9illl2gli06524g66984902j6j1h5g788019hl4712032977h41l0k36073ig880g2jgklh26k736180591639h4k2gjk9gl2071h685923kl5363l5lj0ll91901g12kk29hll4280h9h51870j721516j6g66i379g203932726h42g927h19733k237492l8j0jh148gl95048l5524j4j0l2445130153i802169102i14g586h8g64j2lk28492169li3292877837108k7i9557h3jk31il2lklg494lgl4j91jig614216ki68i2j140l1jg03lk16lljg039h21kj313h8jk79h99j2g89j327i7h9052h9hj71721jg927340956k6jl4i7k0430"
+    },
+    {
+      "key": "永乐",
+      "name": "🎂永乐｜OG",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/养生堂.jar",
+        "_note": "讴歌的内容",
+      "ext": {
+        "副标题": " ",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://www.ylys.tv/;;!H"
+      }
+    },
+    {
+      "key": "素笺",
+      "name": "📜素笺┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "sujian"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "长泽",
+      "name": "🎶长泽┆MY",
+      "type": 3,
+      "api": "csp_App88",
+      "ext": "https://max.moyu666666.top/app88.php?site=legacy_a",
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "云岫",
+      "name": "☁️云岫┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "yunxiu"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "香篆",
+      "name": "🪔香篆┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "xiangzhu"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "松庭",
+      "name": "🌲松庭┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "songting"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "墨砚",
+      "name": "🖋️墨砚┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "moyan"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "沐辞",
+      "name": "🍃沐辞┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://max.moyu666666.top/appun.php",
+        "playname": "mc"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "南枝",
+      "name": "🌱南枝┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://max.moyu666666.top/appun.php",
+        "playname": "nz"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "孟葭",
+      "name": "🌿孟葭┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://max.moyu666666.top/appun.php",
+        "playname": "mj"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "栖桐",
+      "name": "🌳栖桐┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "qitong"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "锦书",
+      "name": "✉️锦书┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "jinshu"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "竹隐",
+      "name": "🎋竹隐┆MY",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "zhuyin"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
+    },
+    {
+      "key": "观澜",
+      "name": "🌼观澜┆MY",
+      "api": "csp_AppUn",
+      "type": 3,
+      "ext": {
+        "php": "https://max.moyu666666.top/appun.php",
+        "playname": "gl"
+      },
+      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/moyu.jar"
     },
     {
       "name": "🛴推送┃播放",
