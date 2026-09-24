@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.jar",
+  "spider": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fan.jar",
   "sites": [
     {
       "key": "点我切源",
