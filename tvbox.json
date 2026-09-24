@@ -2,7 +2,7 @@
   "spider": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/aw.jar",
   "sites": [
     {
-      "name": "🚨请勿信视频中任何广告、二维码!",
+      "name": "🚨请勿信视频中任何广告、二维码！",
       "key": "Douban",
       "type": 3,
       "api": "csp_DoubanAmns",
