@@ -1,5 +1,6 @@
 {
-  "spider": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/aw.jar",
+  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png;md5;34002829de835999f4d2b62b3e0d1cea",
+
   "sites": [
     {
       "name": "🚨请勿相信视频中任何广告、二维码！！",
@@ -11,6 +12,18 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "Douban"
+    },
+
+
+    {
+      "name": "🍬秋天┃AW",
+      "key": "NewGrV2",
+      "type": 3,
+      "api": "csp_NewGrV2Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "NewGrV2"
     },
     {
       "name": "⭐韩剧┃AW",
@@ -211,8 +224,17 @@
       "name": "🥤橘汁┃AW",
       "key": "Woshinidie",
       "type": 3,
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/aw1.jar",
+      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
       "api": "csp_Woshinidie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🧩金牌┃快速",
+      "key": "JinPai",
+      "type": 3,
+      "api": "csp_JinPaiAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -228,7 +250,7 @@
       "ext": "JPian"
     },
     {
-      "name": " 🔥热播┃AW",
+      "name": "🔥热播┃AW",
       "key": "Rbys",
       "type": 3,
       "api": "csp_RbysAmns",
@@ -331,6 +353,23 @@
       "changeable": 0
     },
     {
+      "name": "🎉歌曲┃Bili",
+      "key": "BiliGequ",
+      "type": 3,
+      "api": "csp_BiliAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://cdn.waimaimingtang.com/file/images/bwc/20260527100843-9aefe070b5.aowu",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
       "name": "🎉戏曲┃Bili",
       "key": "BiliXiqu",
       "type": 3,
@@ -339,7 +378,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./json/xiqu.aowu",
+        "json": "https://cdn.waimaimingtang.com/file/images/bwc/20260527100913-7601517540.aowu",
         "cookie": ""
       },
       "style": {
@@ -356,7 +395,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./json/shaoer.gz",
+        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-7y79ukN4TsLcdydmg5TFRj.gz",
         "cookie": ""
       },
       "style": {
@@ -373,7 +412,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./json/xiaoxue.gz",
+        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-4VMpA5z1erwuRYyDVSkc9T.gz",
         "cookie": ""
       },
       "style": {
@@ -390,7 +429,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./json/chuzhong.aowu",
+        "json": "https://file.icve.com.cn/file_doc/281/941/466EB55404EAB8AD6EC37A5F73444B27.aowu",
         "cookie": ""
       },
       "style": {
@@ -406,9 +445,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "_note": "嗷呜的http://www.英格里希嗷呜.top/tv或https://9763.kstore.vip/aowu.json或http://wwww.2525666.xyz/tv的内容",
       "ext": {
-        "json": "./json/gaozhong.gz",
+        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-vsfDQmE86Ei5LCTWJ2X6Nv.gz",
         "cookie": ""
       },
       "style": {
@@ -435,7 +473,7 @@
         "version": "3.0.0.7",
         "decrypt": "0"
       },
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
+      "jar": "./jar/fish.jar"
     },
     {
       "key": "苹果",
@@ -456,7 +494,7 @@
         "version": "1.0.0.3",
         "decrypt": "0"
       },
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
+      "jar": "./jar/fish.jar"
     },
     {
       "key": "薯条",
@@ -477,7 +515,7 @@
         "version": "5.0.0.1",
         "decrypt": "0"
       },
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
+      "jar": "./jar/fish.jar"
     },
     {
       "key": "华谊",
@@ -498,14 +536,14 @@
         "version": "1.0.0.4",
         "decrypt": "1"
       },
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
+      "jar": "./jar/fish.jar"
     },
     {
       "key": "瓜子影视",
       "name": "🍈瓜子 • FS",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
+      "jar": "./jar/fish.jar"
     },
 
     {
@@ -518,7 +556,7 @@
       "filterable": 0,
       "ext": {
         "url": "http://v.rbotv.cn",
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
+      "jar": "./jar/fish.jar"
       }
     },
 
@@ -531,7 +569,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://qpcj.69mini.com/api.php/app/",
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
+      "jar": "./jar/fish.jar"
     },
     {
       "key": "剧圈99",
@@ -547,7 +585,7 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
+      "jar": "./jar/fish.jar"
     },
     {
       "key": "茉莉",
@@ -560,7 +598,7 @@
         "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725",
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
+      "jar": "./jar/fish.jar"
       }
     },
     {
@@ -575,7 +613,7 @@
         "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12",
         "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
       },
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
+      "jar": "./jar/fish.jar"
     },
 
     {
@@ -583,7 +621,7 @@
       "name": "🥕飞娱 • FS",
       "type": 3,
       "api": "csp_Feiyu",
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
+      "jar": "./jar/fish.jar"
     },
     {
       "key": "瓜子体育",
@@ -594,7 +632,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
+      "jar": "./jar/fish.jar"
     },
     {
       "key": "天天",
@@ -605,7 +643,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "7lj763gg0939791h1l3888jig44gi291li",
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/nf.jar"
+      "jar": "./jar/nf.jar"
     },
     {
       "key": "追剧吧",
@@ -620,7 +658,7 @@
         "分类url": "https://zjuba.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
         "分类": "追剧全部$0#电影$1#电视剧$2#综艺$3#动漫$4#更新$new"
       },
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/nf.jar"
+      "jar": "./jar/nf.jar"
     },
     {
       "key": "半日",
@@ -637,7 +675,7 @@
         "buildNumber": "2001",
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       },
-      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/nf.jar"
+      "jar": "./jar/nf.jar"
     },
     {
       "name": "🛴推送┃播放",
