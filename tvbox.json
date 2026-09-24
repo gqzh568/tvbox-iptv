@@ -607,22 +607,6 @@
       "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/fish.jar"
     },
     {
-      "key": "py_lziapi",
-      "name": "🐦量子采集.PY",
-      "type": 3,
-      "api": "./py/py_collectJson.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "hostUrl": "https://cj.lziapi.com/api.php/seacms/vod/at/xml/$$$1",
-        "class": "动作片:6,喜剧片:7,爱情片:8,科幻片:9,恐怖片:10,剧情片:11,战争片:12,国产剧:13,香港剧:14",
-        "type": 1,
-        "isFilter": 1
-      },
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/py.jar"
-    },
-    {
       "key": "天天",
       "name": "⛅天天｜NF",
       "type": 3,
