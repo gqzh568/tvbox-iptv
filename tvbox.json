@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/aw.jar",
+  "spider": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/aw.jar",
   "sites": [
     {
       "name": "🚨请勿相信视频中任何广告、二维码！！",
@@ -39,8 +39,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "AppV7Fz",
-      "jar": "./jar/aw.jar"
+      "ext": "AppV7Fz"
     },
     {
       "name": "🥃②线┃AW",
@@ -50,8 +49,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "AppV7Xy",
-      "jar": "./jar/aw.jar"
+      "ext": "AppV7Xy"
     },
     {
       "name": "💮③线┃AW",
@@ -61,8 +59,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "AppV7Zjdr",
-      "jar": "./jar/aw.jar"
+      "ext": "AppV7Zjdr"
     },
     {
       "name": "⚡④线┃AW",
@@ -72,8 +69,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "AppV7Xyz",
-      "jar": "./jar/aw.jar"
+      "ext": "AppV7Xyz"
     },
     {
       "name": "🧀⑤线┃AW",
@@ -83,8 +79,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "AppV7Xnm",
-      "jar": "./jar/aw.jar"
+      "ext": "AppV7Xnm"
     },
     {
       "name": "🖍︎⑥线┃AW",
@@ -94,8 +89,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "AppV7Mtq",
-      "jar": "./jar/aw.jar"
+      "ext": "AppV7Mtq"
     },
     {
       "name": "🥙⑦线┃AW",
@@ -105,8 +99,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "AppV7Llq",
-      "jar": "./jar/aw.jar"
+      "ext": "AppV7Llq"
     },
     {
       "name": "🍔⑧线┃AW",
@@ -116,8 +109,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "AppV7Xsz",
-      "jar": "./jar/aw.jar"
+      "ext": "AppV7Xsz"
     },
     {
       "name": "🥦⑨线┃AW",
@@ -127,8 +119,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "AppV7Xhr",
-      "jar": "./jar/aw.jar"
+      "ext": "AppV7Xhr"
     },
     {
       "name": "🚤师兄┃AW",
@@ -444,7 +435,7 @@
         "version": "3.0.0.7",
         "decrypt": "0"
       },
-      "jar": "./jar/fish.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
     },
     {
       "key": "苹果",
@@ -465,7 +456,7 @@
         "version": "1.0.0.3",
         "decrypt": "0"
       },
-      "jar": "./jar/fish.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
     },
     {
       "key": "薯条",
@@ -486,7 +477,7 @@
         "version": "5.0.0.1",
         "decrypt": "0"
       },
-      "jar": "./jar/fish.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
     },
     {
       "key": "华谊",
@@ -507,14 +498,14 @@
         "version": "1.0.0.4",
         "decrypt": "1"
       },
-      "jar": "./jar/fish.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
     },
     {
       "key": "瓜子影视",
       "name": "🍈瓜子 • FS",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "./jar/fish.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
     },
 
     {
@@ -527,7 +518,7 @@
       "filterable": 0,
       "ext": {
         "url": "http://v.rbotv.cn",
-      "jar": "./jar/fish.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
       }
     },
 
@@ -540,7 +531,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://qpcj.69mini.com/api.php/app/",
-      "jar": "./jar/fish.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
     },
     {
       "key": "剧圈99",
@@ -556,7 +547,7 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "jar": "./jar/fish.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
     },
     {
       "key": "茉莉",
@@ -569,7 +560,7 @@
         "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725",
-      "jar": "./jar/fish.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
       }
     },
     {
@@ -584,7 +575,7 @@
         "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12",
         "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
       },
-      "jar": "./jar/fish.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
     },
 
     {
@@ -592,7 +583,7 @@
       "name": "🥕飞娱 • FS",
       "type": 3,
       "api": "csp_Feiyu",
-      "jar": "./jar/fish.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
     },
     {
       "key": "瓜子体育",
@@ -603,7 +594,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "./jar/fish.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/fish.jar"
     },
     {
       "key": "天天",
@@ -614,7 +605,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "7lj763gg0939791h1l3888jig44gi291li",
-      "jar": "./jar/nf.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/nf.jar"
     },
     {
       "key": "追剧吧",
@@ -629,7 +620,7 @@
         "分类url": "https://zjuba.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
         "分类": "追剧全部$0#电影$1#电视剧$2#综艺$3#动漫$4#更新$new"
       },
-      "jar": "./jar/nf.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/nf.jar"
     },
     {
       "key": "半日",
@@ -646,7 +637,7 @@
         "buildNumber": "2001",
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       },
-      "jar": "./jar/nf.jar"
+      "jar": "https://raw.githubusercontent.com/gqzh568/tvbox-iptv/refs/heads/main/jar/nf.jar"
     },
     {
       "name": "🛴推送┃播放",
