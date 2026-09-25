@@ -721,82 +721,10 @@
         "versionName": "3.5.8",
         "name": "半日闲",
         "package": "com.yf.lelian",
-      "_note": "南风的https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json的内容",
         "buildNumber": "2001",
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       },
       "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/nf.jar"
-    },
-    {
-      "key": "两个BT",
-      "name": "⛲️两个 : OG",
-      "type": 3,
-      "api": "./py/两个BT.py",
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/og.jar"
-    },
-    {
-      "key": "柠檬",
-      "name": "🌽柠檬 : OG",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/橘皮.jar",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
-    {
-      "key": "先生",
-      "name": "🍜养生 : OG",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/养生堂.jar",
-      "ext": {
-        "副标题": " ",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "https://silidm.com/;;!H"
-      }
-    },
-    {
-      "key": "布卡",
-      "name": "🏯布卡 : OG",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/养生堂.jar",
-      "ext": {
-        "副标题": " ",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "https://m.ycblcw.com/;;!H"
-      }
-    },
-    {
-      "key": "永乐",
-      "name": "🎂永乐 : OG",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/养生堂.jar",
-        "_note": "讴歌的内容",
-      "ext": {
-        "副标题": " ",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "https://www.ylys.tv/;;!H"
-      }
-    },
-    {
-      "key": "农民影视",
-      "name": "💡农民 : OG",
-      "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://vip.wwgz.cn:5200",
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/og.jar"
-    },
-    {
-      "key": "荐片123",
-      "name": "🥈荐片 : OG",
-      "type": 3,
-      "api": "./api/荐片.js",
-      "jar": "https://raw.giteeusercontent.com/gqzh568/tvbox/raw/master/jar/og.jar"
     },
     {
       "name": "🛴推送丨播放",
